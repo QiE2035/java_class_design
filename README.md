@@ -90,10 +90,11 @@
 ### 客户端与服务端通信
 
 客户端与服务端之间使用 **HTTP 协议** 通信, 在服务端使用了 **NanoHTTPD
-框架** *([https://github.com/NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd))* 来建立HTTP服务器, 并使用 **线程池** 来 **
-限制线程数量**, 以应对 **高并发** 场景. 在客户端使用 **MiniHTTP-Client
-框架** *([https://github.com/itgowo/MiniHttpClient](https://github.com/itgowo/MiniHttpClient))* 来发送请求. 通信模式尽可能的遵循 **
-RESTful 风格** *([https://restfulapi.cn/](https://restfulapi.cn/))* 通信内容使用 **fastjson** 序列化, 并通过 **AES/ECB/PKCS5Padding**
+框架** *([https://github.com/NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd))* 来建立HTTP服务器, 并使用 **线程池** 来
+**限制线程数量**, 以应对 **高并发** 场景. 在客户端使用 **MiniHTTP-Client
+框架** *([https://github.com/itgowo/MiniHttpClient](https://github.com/itgowo/MiniHttpClient))* 来发送请求. 通信模式尽可能的遵循
+**RESTful 风格** *([https://restfulapi.cn/](https://restfulapi.cn/))* 通信内容使用 **fastjson** 序列化, 并通过
+**AES/ECB/PKCS5Padding**
 加密算法进行 **私有密钥对** 加密, 数据传输 **安全可靠**.
 
 ### 访问数据库
