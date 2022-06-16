@@ -129,6 +129,8 @@
 
 ## UML 图
 
-关系线有缺失, 如果显示异常请查看 [doc/uml.svg](doc/uml.svg) 或 [doc/uml.jpg](doc/uml.jpg)
+关系线有缺失,
+如果显示异常请查看 [doc/uml.svg](https://external.githubfast.com/https/raw.githubusercontent.com/QiE2035/java_class_design/master/doc/uml.svg)
+或 [doc/uml.jpg](doc/uml.jpg)
 
 ![](doc/uml.svg "UML 图")
