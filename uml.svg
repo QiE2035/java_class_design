@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" contentStyleType="text/css" height="1033px" preserveAspectRatio="none"
+     style="width:9536px;height:1033px;background:#FFFFFF;" version="1.1" viewBox="0 0 9536 1033" width="9536px"
+     zoomAndPan="magnify">
+    <defs/>
+    <g><!--MD5=[f8a1f4234db0a24209bcc1e90f8e3fcd]
+cluster moe.qie2035.market.server-->
+        <g id="cluster_moe.qie2035.market.server">
+            <path d="M8.5,99.2 L209.5,99.2 A3.75,3.75 0 0 1 212,101.7 L219,123.6799 L630.5,123.6799 A2.5,2.5 0 0 1 633,126.1799 L633,795.7 A2.5,2.5 0 0 1 630.5,798.2 L8.5,798.2 A2.5,2.5 0 0 1 6,795.7 L6,101.7 A2.5,2.5 0 0 1 8.5,99.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6" x2="219" y1="123.6799" y2="123.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="200" x="10" y="115.4799">moe.qie2035.market.server
+            </text>
+        </g><!--MD5=[ffa61e1eb6a13188ceaa353060ac0d2f]
+cluster moe.qie2035.market.ui.dialog-->
+        <g id="cluster_moe.qie2035.market.ui.dialog">
+            <path d="M1390.5,25.2 L1615.5,25.2 A3.75,3.75 0 0 1 1618,27.7 L1625,49.6799 L3106.5,49.6799 A2.5,2.5 0 0 1 3109,52.1799 L3109,842.2 A2.5,2.5 0 0 1 3106.5,844.7 L1390.5,844.7 A2.5,2.5 0 0 1 1388,842.2 L1388,27.7 A2.5,2.5 0 0 1 1390.5,25.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="1388" x2="1625" y1="49.6799" y2="49.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="224" x="1392" y="41.4799">moe.qie2035.market.ui.dialog
+            </text>
+        </g><!--MD5=[c523d03dc0d1676c284a5f51c29112a2]
+cluster moe.qie2035.market.ui.event-->
+        <g id="cluster_moe.qie2035.market.ui.event">
+            <path d="M3135.5,99.2 L3352.5,99.2 A3.75,3.75 0 0 1 3355,101.7 L3362,123.6799 L3901.5,123.6799 A2.5,2.5 0 0 1 3904,126.1799 L3904,1024.2 A2.5,2.5 0 0 1 3901.5,1026.7 L3135.5,1026.7 A2.5,2.5 0 0 1 3133,1024.2 L3133,101.7 A2.5,2.5 0 0 1 3135.5,99.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="3133" x2="3362" y1="123.6799" y2="123.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="216" x="3137" y="115.4799">moe.qie2035.market.ui.event
+            </text>
+        </g><!--MD5=[fdbd84caca218ffa5c166c361931206b]
+cluster moe.qie2035.market.server.api-->
+        <g id="cluster_moe.qie2035.market.server.api">
+            <path d="M3930.5,71.7 L4163.5,71.7 A3.75,3.75 0 0 1 4166,74.2 L4173,96.1799 L5511.5,96.1799 A2.5,2.5 0 0 1 5514,98.6799 L5514,731.2 A2.5,2.5 0 0 1 5511.5,733.7 L3930.5,733.7 A2.5,2.5 0 0 1 3928,731.2 L3928,74.2 A2.5,2.5 0 0 1 3930.5,71.7 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="3928" x2="4173" y1="96.1799" y2="96.1799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="232" x="3932" y="87.9799">moe.qie2035.market.server.api
+            </text>
+        </g><!--MD5=[7e0b03416d576fd536c46a556ba3b39d]
+cluster moe.qie2035.market.client-->
+        <g id="cluster_moe.qie2035.market.client">
+            <path d="M5540.5,43.7 L5741.5,43.7 A3.75,3.75 0 0 1 5744,46.2 L5751,68.1799 L6329.5,68.1799 A2.5,2.5 0 0 1 6332,70.6799 L6332,721.7 A2.5,2.5 0 0 1 6329.5,724.2 L5540.5,724.2 A2.5,2.5 0 0 1 5538,721.7 L5538,46.2 A2.5,2.5 0 0 1 5540.5,43.7 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="5538" x2="5751" y1="68.1799" y2="68.1799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="200" x="5542" y="59.9799">moe.qie2035.market.client
+            </text>
+        </g><!--MD5=[ffcc3c05e403b5da42ecff4514f7e38b]
+cluster moe.qie2035.market-->
+        <g id="cluster_moe.qie2035.market">
+            <path d="M6358.5,6.7 L6503.5,6.7 A3.75,3.75 0 0 1 6506,9.2 L6513,31.1799 L7210.5,31.1799 A2.5,2.5 0 0 1 7213,33.6799 L7213,758.7 A2.5,2.5 0 0 1 7210.5,761.2 L6358.5,761.2 A2.5,2.5 0 0 1 6356,758.7 L6356,9.2 A2.5,2.5 0 0 1 6358.5,6.7 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6356" x2="6513" y1="31.1799" y2="31.1799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="144" x="6360" y="22.9799">moe.qie2035.market
+            </text>
+        </g><!--MD5=[c8799d470fae3c743b6c031604c40a0e]
+cluster moe.qie2035.market.ui.model-->
+        <g id="cluster_moe.qie2035.market.ui.model">
+            <path d="M7239.5,99.2 L7456.5,99.2 A3.75,3.75 0 0 1 7459,101.7 L7466,123.6799 L7837.5,123.6799 A2.5,2.5 0 0 1 7840,126.1799 L7840,740.2 A2.5,2.5 0 0 1 7837.5,742.7 L7239.5,742.7 A2.5,2.5 0 0 1 7237,740.2 L7237,101.7 A2.5,2.5 0 0 1 7239.5,99.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="7237" x2="7466" y1="123.6799" y2="123.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="216" x="7241" y="115.4799">moe.qie2035.market.ui.model
+            </text>
+        </g><!--MD5=[bc3f1670ccd1fb8823d502bd5824df1b]
+cluster moe.qie2035.market.ui-->
+        <g id="cluster_moe.qie2035.market.ui">
+            <path d="M7866.5,53.2 L8035.5,53.2 A3.75,3.75 0 0 1 8038,55.7 L8045,77.6799 L8177.5,77.6799 A2.5,2.5 0 0 1 8180,80.1799 L8180,354.7 A2.5,2.5 0 0 1 8177.5,357.2 L7866.5,357.2 A2.5,2.5 0 0 1 7864,354.7 L7864,55.7 A2.5,2.5 0 0 1 7866.5,53.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="7864" x2="8045" y1="77.6799" y2="77.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="168" x="7868" y="69.4799">moe.qie2035.market.ui
+            </text>
+        </g><!--MD5=[87e14e66b6a07d1bb0c815a78c030396]
+cluster moe.qie2035.market.ui.frame-->
+        <g id="cluster_moe.qie2035.market.ui.frame">
+            <path d="M8206.5,127.2 L8423.5,127.2 A3.75,3.75 0 0 1 8426,129.7 L8433,151.6799 L8980.5,151.6799 A2.5,2.5 0 0 1 8983,154.1799 L8983,795.7 A2.5,2.5 0 0 1 8980.5,798.2 L8206.5,798.2 A2.5,2.5 0 0 1 8204,795.7 L8204,129.7 A2.5,2.5 0 0 1 8206.5,127.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="8204" x2="8433" y1="151.6799" y2="151.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="216" x="8208" y="143.4799">moe.qie2035.market.ui.frame
+            </text>
+        </g><!--MD5=[3e0f617a34fbd54b231aa7eeee57e9e6]
+cluster moe.qie2035.market.utils-->
+        <g id="cluster_moe.qie2035.market.utils">
+            <path d="M659.5,90.2 L852.5,90.2 A3.75,3.75 0 0 1 855,92.7 L862,114.6799 L1361.5,114.6799 A2.5,2.5 0 0 1 1364,117.1799 L1364,731.2 A2.5,2.5 0 0 1 1361.5,733.7 L659.5,733.7 A2.5,2.5 0 0 1 657,731.2 L657,92.7 A2.5,2.5 0 0 1 659.5,90.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="657" x2="862" y1="114.6799" y2="114.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="192" x="661" y="106.4799">moe.qie2035.market.utils
+            </text>
+        </g><!--MD5=[036e2754d377821e2e951df13cde9d9d]
+cluster moe.qie2035.market.data-->
+        <g id="cluster_moe.qie2035.market.data">
+            <path d="M9009.5,99.2 L9194.5,99.2 A3.75,3.75 0 0 1 9197,101.7 L9204,123.6799 L9526.5,123.6799 A2.5,2.5 0 0 1 9529,126.1799 L9529,740.2 A2.5,2.5 0 0 1 9526.5,742.7 L9009.5,742.7 A2.5,2.5 0 0 1 9007,740.2 L9007,101.7 A2.5,2.5 0 0 1 9009.5,99.2 "
+                  style="stroke:#000000;stroke-width:1.5;fill:none;"/>
+            <line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="9007" x2="9204" y1="123.6799" y2="123.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="184" x="9011" y="115.4799">moe.qie2035.market.data
+            </text>
+        </g><!--MD5=[54d3dc442c61016d69b07ddea2eaa16f]
+class moe.qie2035.market.server.Server-->
+        <g id="elem_moe.qie2035.market.server.Server">
+            <rect codeLine="1" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.server.Server" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="244" x="22" y="136.2"/>
+            <ellipse cx="115.75" cy="152.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M115.6719,147.7781 Q114.8594,147.7781 114.2031,148.075 Q113.5625,148.3562 113.0938,148.9187 Q112.6406,149.4656 112.375,150.2781 Q112.1094,151.075 112.1094,152.1062 Q112.1094,153.1844 112.3281,154.0125 Q112.5625,154.825 113,155.3562 Q113.4531,155.8875 114.1094,156.1687 Q114.7656,156.45 115.6719,156.45 Q116.3906,156.45 117.0313,156.325 Q117.6719,156.1844 118.7344,155.8719 L118.7344,157.8719 Q118.1719,158.0906 117.8281,158.1844 Q117.5,158.2625 117.125,158.3406 Q116.7656,158.4031 116.3438,158.4344 Q115.9219,158.45 115.4219,158.45 Q113.9844,158.45 112.9063,157.9969 Q111.8438,157.5281 111.1406,156.6844 Q110.4531,155.825 110.1094,154.6531 Q109.7813,153.4812 109.7813,152.0906 Q109.7813,150.7156 110.1719,149.5594 Q110.5625,148.4031 111.2969,147.5594 Q112.0469,146.7156 113.1406,146.2469 Q114.25,145.7625 115.6719,145.7625 Q116.625,145.7625 117.4688,145.9656 Q118.3125,146.1531 119.3281,146.6531 L118.3438,148.5281 Q117.5625,148.1219 116.9844,147.95 Q116.4063,147.7781 115.6719,147.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="136.25" y="157.24">Server
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="265" y1="168.2" y2="168.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="28" y="186.4799">-Server server
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="265" y1="194.6799" y2="194.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="28" y="212.9598">-«Create» Server()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="28" y="231.4398">+Server get()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="136" x="28" y="249.9197">+Server refresh()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="28" y="268.3996">+void addMappings()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="232"
+                  x="28" y="286.8795">+Response serve(IHTTPSession)
+            </text>
+        </g><!--MD5=[1923e2777448c2002302ff604672e04b]
+class moe.qie2035.market.server.BoundRunner-->
+        <g id="elem_moe.qie2035.market.server.BoundRunner">
+            <rect codeLine="268" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.server.BoundRunner" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="316" x="301" y="136.2"/>
+            <ellipse cx="410.75" cy="152.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M410.6719,147.7781 Q409.8594,147.7781 409.2031,148.075 Q408.5625,148.3562 408.0938,148.9187 Q407.6406,149.4656 407.375,150.2781 Q407.1094,151.075 407.1094,152.1062 Q407.1094,153.1844 407.3281,154.0125 Q407.5625,154.825 408,155.3562 Q408.4531,155.8875 409.1094,156.1687 Q409.7656,156.45 410.6719,156.45 Q411.3906,156.45 412.0313,156.325 Q412.6719,156.1844 413.7344,155.8719 L413.7344,157.8719 Q413.1719,158.0906 412.8281,158.1844 Q412.5,158.2625 412.125,158.3406 Q411.7656,158.4031 411.3438,158.4344 Q410.9219,158.45 410.4219,158.45 Q408.9844,158.45 407.9063,157.9969 Q406.8438,157.5281 406.1406,156.6844 Q405.4531,155.825 405.1094,154.6531 Q404.7813,153.4812 404.7813,152.0906 Q404.7813,150.7156 405.1719,149.5594 Q405.5625,148.4031 406.2969,147.5594 Q407.0469,146.7156 408.1406,146.2469 Q409.25,145.7625 410.6719,145.7625 Q411.625,145.7625 412.4688,145.9656 Q413.3125,146.1531 414.3281,146.6531 L413.3438,148.5281 Q412.5625,148.1219 411.9844,147.95 Q411.4063,147.7781 410.6719,147.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="431.25" y="157.24">BoundRunner
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="302" x2="616" y1="168.2" y2="168.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="256"
+                  x="307" y="186.4799">-ExecutorService executorService
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="304"
+                  x="307" y="204.9598">-List&lt;NanoHTTPD.ClientHandler&gt; running
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="302" x2="616" y1="213.1598" y2="213.1598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="208"
+                  x="307" y="231.4398">+«Create» BoundRunner(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="307" y="249.9197">+void closeAll()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="296"
+                  x="307" y="268.3996">+void closed(NanoHTTPD.ClientHandler)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="280"
+                  x="307" y="286.8795">+void exec(NanoHTTPD.ClientHandler)
+            </text>
+        </g><!--MD5=[ce5d3c5d8fe4eaea33b77d80708df063]
+class moe.qie2035.market.server.CNStatus-->
+        <g id="elem_moe.qie2035.market.server.CNStatus">
+            <rect codeLine="284" fill="#F1F1F1" height="288.239" id="moe.qie2035.market.server.CNStatus" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="252" x="22" y="494.2"/>
+            <ellipse cx="111.75" cy="510.2" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M114.8906,516.7 L107.9063,516.7 L107.9063,504.0125 L114.8906,504.0125 L114.8906,506.0125 L110.1406,506.0125 L110.1406,508.95 L114.5781,508.95 L114.5781,510.95 L110.1406,510.95 L110.1406,514.7 L114.8906,514.7 L114.8906,516.7 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="64"
+                  x="132.25" y="515.24">CNStatus
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="273" y1="526.2" y2="526.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="24"
+                  x="28" y="544.4799">+OK
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="64"
+                  x="28" y="562.9598">+CREATED
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="28" y="581.4398">+BAD_REQUEST
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="28" y="599.9197">+UNAUTHORIZED
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="28" y="618.3996">+FORBIDDEN
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="28" y="636.8795">+NOT_FOUND
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="28" y="655.3594">+METHOD_NOT_ALLOWED
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="28" y="673.8394">+INTERNAL_ERROR
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="28" y="692.3193">-int code
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="28" y="710.7992">-String msg
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="273" y1="718.9992" y2="718.9992"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="240"
+                  x="28" y="737.2791">~«Create» CNStatus(int,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="192"
+                  x="28" y="755.759">+String getDescription()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="28" y="774.239">+int getRequestStatus()
+            </text>
+        </g><!--MD5=[44ef55dc8799c6952dd1a4c1524dcc26]
+class moe.qie2035.market.ui.dialog.AbsDialog-->
+        <g id="elem_moe.qie2035.market.ui.dialog.AbsDialog">
+            <rect codeLine="9" fill="#F1F1F1" height="306.7189" id="moe.qie2035.market.ui.dialog.AbsDialog" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="444" x="2106" y="62.2"/>
+            <ellipse cx="2287.75" cy="78.2" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M2291.0938,83.7 L2289.7656,79.95 L2285.7344,79.95 L2284.3906,83.7 L2282.0938,83.7 L2286.8125,71.0125 L2288.7031,71.0125 L2293.4219,83.7 L2291.0938,83.7 Z M2289.0469,77.95 L2288,74.95 Q2287.9219,74.8094 2287.8438,74.575 Q2287.7813,74.3406 2287.7031,74.1062 Q2287.6406,73.8562 2287.5625,73.5906 Q2287.4844,73.325 2287.75,73.2312 Q2288.0156,73.3094 2287.9375,73.5906 Q2287.875,73.8719 2287.7969,74.1219 Q2287.7188,74.3719 2287.6406,74.5906 Q2287.5781,74.7937 2287.5313,74.9344 L2286.4844,77.95 L2289.0469,77.95 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="72" x="2308.25" y="83.24">AbsDialog
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2107" x2="2549" y1="94.2" y2="94.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="2112" y="112.4799">#String[] label
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="56"
+                  x="2112" y="130.9598">#T data
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="2112" y="149.4398">#boolean isNew
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="2112" y="167.9197">#AbsClient&lt;T,P&gt; client
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="2112" y="186.3996">#JButton okBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="2112" y="204.8795">#JButton cancelBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="2112" y="223.3594">#Box fieldBox
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2107" x2="2549" y1="231.5594" y2="231.5594"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="2112" y="249.8394">+«Create» AbsDialog()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="432"
+                  x="2112" y="268.3193">+«Create» AbsDialog(T,String[],boolean,AbsClient&lt;T,P&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="2112" y="286.7992">-void baseInit()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="208"
+                  x="2112" y="305.2791">#void setDataTitle(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="96" x="2112" y="323.759">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="96" x="2112" y="342.239">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="2112" y="360.7189">#void dataInit()
+            </text>
+        </g><!--MD5=[85dafe86c63e6e4d0c3b0d6253f3ec19]
+class moe.qie2035.market.ui.dialog.GoodsDialog-->
+        <g id="elem_moe.qie2035.market.ui.dialog.GoodsDialog">
+            <rect codeLine="62" fill="#F1F1F1" height="251.2791" id="moe.qie2035.market.ui.dialog.GoodsDialog" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="468" x="1404" y="512.7"/>
+            <ellipse cx="1589.75" cy="528.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1589.6719,524.2781 Q1588.8594,524.2781 1588.2031,524.575 Q1587.5625,524.8562 1587.0938,525.4187 Q1586.6406,525.9656 1586.375,526.7781 Q1586.1094,527.575 1586.1094,528.6062 Q1586.1094,529.6844 1586.3281,530.5125 Q1586.5625,531.325 1587,531.8562 Q1587.4531,532.3875 1588.1094,532.6687 Q1588.7656,532.95 1589.6719,532.95 Q1590.3906,532.95 1591.0313,532.825 Q1591.6719,532.6844 1592.7344,532.3719 L1592.7344,534.3719 Q1592.1719,534.5906 1591.8281,534.6844 Q1591.5,534.7625 1591.125,534.8406 Q1590.7656,534.9031 1590.3438,534.9344 Q1589.9219,534.95 1589.4219,534.95 Q1587.9844,534.95 1586.9063,534.4969 Q1585.8438,534.0281 1585.1406,533.1844 Q1584.4531,532.325 1584.1094,531.1531 Q1583.7813,529.9812 1583.7813,528.5906 Q1583.7813,527.2156 1584.1719,526.0594 Q1584.5625,524.9031 1585.2969,524.0594 Q1586.0469,523.2156 1587.1406,522.7469 Q1588.25,522.2625 1589.6719,522.2625 Q1590.625,522.2625 1591.4688,522.4656 Q1592.3125,522.6531 1593.3281,523.1531 L1592.3438,525.0281 Q1591.5625,524.6219 1590.9844,524.45 Q1590.4063,524.2781 1589.6719,524.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="1610.25" y="533.74">GoodsDialog
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1405" x2="1871" y1="544.7" y2="544.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="1410" y="562.9799">-Integer oldId
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="1410" y="581.4598">-JTextField nameField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="1410" y="599.9398">-JTextField princeField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="1410" y="618.4197">-JSpinner idSpinner
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="1410" y="636.8996">-JSpinner countSpinner
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="1410" y="655.3795">-JTextField remarkField
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1405" x2="1871" y1="663.5795" y2="663.5795"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="456"
+                  x="1410" y="681.8594">+«Create» GoodsDialog(Goods,String[],boolean,GoodsClient)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1410" y="700.3394">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1410" y="718.8193">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1410" y="737.2992">-void onOk()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="1410" y="755.7791">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[a0caaec87516d940cc0e42d0887c8647]
+class moe.qie2035.market.ui.dialog.UserDialog-->
+        <g id="elem_moe.qie2035.market.ui.dialog.UserDialog">
+            <rect codeLine="75" fill="#F1F1F1" height="214.3193" id="moe.qie2035.market.ui.dialog.UserDialog" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="444" x="1907" y="531.2"/>
+            <ellipse cx="2084.75" cy="547.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M2084.6719,542.7781 Q2083.8594,542.7781 2083.2031,543.075 Q2082.5625,543.3562 2082.0938,543.9187 Q2081.6406,544.4656 2081.375,545.2781 Q2081.1094,546.075 2081.1094,547.1062 Q2081.1094,548.1844 2081.3281,549.0125 Q2081.5625,549.825 2082,550.3562 Q2082.4531,550.8875 2083.1094,551.1687 Q2083.7656,551.45 2084.6719,551.45 Q2085.3906,551.45 2086.0313,551.325 Q2086.6719,551.1844 2087.7344,550.8719 L2087.7344,552.8719 Q2087.1719,553.0906 2086.8281,553.1844 Q2086.5,553.2625 2086.125,553.3406 Q2085.7656,553.4031 2085.3438,553.4344 Q2084.9219,553.45 2084.4219,553.45 Q2082.9844,553.45 2081.9063,552.9969 Q2080.8438,552.5281 2080.1406,551.6844 Q2079.4531,550.825 2079.1094,549.6531 Q2078.7813,548.4812 2078.7813,547.0906 Q2078.7813,545.7156 2079.1719,544.5594 Q2079.5625,543.4031 2080.2969,542.5594 Q2081.0469,541.7156 2082.1406,541.2469 Q2083.25,540.7625 2084.6719,540.7625 Q2085.625,540.7625 2086.4688,540.9656 Q2087.3125,541.1531 2088.3281,541.6531 L2087.3438,543.5281 Q2086.5625,543.1219 2085.9844,542.95 Q2085.4063,542.7781 2084.6719,542.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="2105.25" y="552.24">UserDialog
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1908" x2="2350" y1="563.2" y2="563.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="1913" y="581.4799">-JTextField usernameField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="232"
+                  x="1913" y="599.9598">-JPasswordField passwordField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="248"
+                  x="1913" y="618.4398">-JComboBox&lt;String&gt; typeComboBox
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="1913" y="636.9197">-String oldName
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1908" x2="2350" y1="645.1197" y2="645.1197"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="432"
+                  x="1913" y="663.3996">+«Create» UserDialog(User,String[],boolean,UserClient)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1913" y="681.8795">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1913" y="700.3594">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="1913" y="718.8394">-void onOk()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="1913" y="737.3193">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[d31cf74dfdfe01e124db9835485950d6]
+class moe.qie2035.market.ui.dialog.ChooseDialog-->
+        <g id="elem_moe.qie2035.market.ui.dialog.ChooseDialog">
+            <rect codeLine="116" fill="#F1F1F1" height="251.2791" id="moe.qie2035.market.ui.dialog.ChooseDialog"
+                  rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="2386" y="512.7"/>
+            <ellipse cx="2475.75" cy="528.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M2475.6719,524.2781 Q2474.8594,524.2781 2474.2031,524.575 Q2473.5625,524.8562 2473.0938,525.4187 Q2472.6406,525.9656 2472.375,526.7781 Q2472.1094,527.575 2472.1094,528.6062 Q2472.1094,529.6844 2472.3281,530.5125 Q2472.5625,531.325 2473,531.8562 Q2473.4531,532.3875 2474.1094,532.6687 Q2474.7656,532.95 2475.6719,532.95 Q2476.3906,532.95 2477.0313,532.825 Q2477.6719,532.6844 2478.7344,532.3719 L2478.7344,534.3719 Q2478.1719,534.5906 2477.8281,534.6844 Q2477.5,534.7625 2477.125,534.8406 Q2476.7656,534.9031 2476.3438,534.9344 Q2475.9219,534.95 2475.4219,534.95 Q2473.9844,534.95 2472.9063,534.4969 Q2471.8438,534.0281 2471.1406,533.1844 Q2470.4531,532.325 2470.1094,531.1531 Q2469.7813,529.9812 2469.7813,528.5906 Q2469.7813,527.2156 2470.1719,526.0594 Q2470.5625,524.9031 2471.2969,524.0594 Q2472.0469,523.2156 2473.1406,522.7469 Q2474.25,522.2625 2475.6719,522.2625 Q2476.625,522.2625 2477.4688,522.4656 Q2478.3125,522.6531 2479.3281,523.1531 L2478.3438,525.0281 Q2477.5625,524.6219 2476.9844,524.45 Q2476.4063,524.2781 2475.6719,524.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="2496.25" y="533.74">ChooseDialog
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2387" x2="2669" y1="544.7" y2="544.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="2392" y="562.9799">+String USER
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="2392" y="581.4598">+String GOODS
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="160" x="2392" y="599.9398">-ChooseDialog dialog
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="2392" y="618.4197">-JList&lt;String&gt; list
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="2392" y="636.8996">-JButton okBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="2392" y="655.3795">-User user
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2387" x2="2669" y1="663.5795" y2="663.5795"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="192"
+                  x="2392" y="681.8594">-«Create» ChooseDialog()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="144" x="2392" y="700.3394">+void create(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="2392" y="718.8193">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="2392" y="737.2992">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="2392" y="755.7791">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[4a0f8a7c59d4228389f131bf9ae897a4]
+class moe.qie2035.market.ui.dialog.CfgDialog-->
+        <g id="elem_moe.qie2035.market.ui.dialog.CfgDialog">
+            <rect codeLine="200" fill="#F1F1F1" height="380.6385" id="moe.qie2035.market.ui.dialog.CfgDialog" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="388" x="2705" y="447.7"/>
+            <ellipse cx="2858.75" cy="463.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M2858.6719,459.2781 Q2857.8594,459.2781 2857.2031,459.575 Q2856.5625,459.8562 2856.0938,460.4187 Q2855.6406,460.9656 2855.375,461.7781 Q2855.1094,462.575 2855.1094,463.6062 Q2855.1094,464.6844 2855.3281,465.5125 Q2855.5625,466.325 2856,466.8562 Q2856.4531,467.3875 2857.1094,467.6687 Q2857.7656,467.95 2858.6719,467.95 Q2859.3906,467.95 2860.0313,467.825 Q2860.6719,467.6844 2861.7344,467.3719 L2861.7344,469.3719 Q2861.1719,469.5906 2860.8281,469.6844 Q2860.5,469.7625 2860.125,469.8406 Q2859.7656,469.9031 2859.3438,469.9344 Q2858.9219,469.95 2858.4219,469.95 Q2856.9844,469.95 2855.9063,469.4969 Q2854.8438,469.0281 2854.1406,468.1844 Q2853.4531,467.325 2853.1094,466.1531 Q2852.7813,464.9812 2852.7813,463.5906 Q2852.7813,462.2156 2853.1719,461.0594 Q2853.5625,459.9031 2854.2969,459.0594 Q2855.0469,458.2156 2856.1406,457.7469 Q2857.25,457.2625 2858.6719,457.2625 Q2859.625,457.2625 2860.4688,457.4656 Q2861.3125,457.6531 2862.3281,458.1531 L2861.3438,460.0281 Q2860.5625,459.6219 2859.9844,459.45 Q2859.4063,459.2781 2858.6719,459.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="2879.25" y="468.74">CfgDialog
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2706" x2="3092" y1="479.7" y2="479.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="136" x="2711" y="497.9799">-CfgDialog dialog
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="2711" y="516.4598">-JButton saveBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="2711" y="534.9398">-JTabbedPane tabPanel
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="2711" y="553.4197">-JTextField dbNameField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="376"
+                  x="2711" y="571.8996">-JComboBox&lt;Config.Database.Type&gt; dbTypeComboBox
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="2711" y="590.3795">-JSpinner dbPortSpinner
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="248"
+                  x="2711" y="608.8594">-JPasswordField dbPasswordField
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="2706" x2="3092" y1="617.0594" y2="617.0594"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="2711" y="635.3394">-«Create» CfgDialog()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="2711" y="653.8193">+void create()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="144" x="2711" y="672.2992">-int check(Object)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="336" x="2711" y="690.7791">-JSpinner.NumberEditor
+                getEditor(JSpinner)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="2711" y="709.259">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="2711" y="727.739">-void initDb()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="2711" y="746.2189">-void initSrv()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="2711" y="764.6988">-void initClient()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="2711" y="783.1787">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="2711" y="801.6586">-void onSave()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="2711" y="820.1385">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[3883082adbf57258822a27330832c006]
+class moe.qie2035.market.ui.event.UserEvent-->
+        <g id="elem_moe.qie2035.market.ui.event.UserEvent">
+            <rect codeLine="25" fill="#F1F1F1" height="121.9197" id="moe.qie2035.market.ui.event.UserEvent" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="340" x="3149" y="888.7"/>
+            <ellipse cx="3278.75" cy="904.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M3278.6719,900.2781 Q3277.8594,900.2781 3277.2031,900.575 Q3276.5625,900.8562 3276.0938,901.4187 Q3275.6406,901.9656 3275.375,902.7781 Q3275.1094,903.575 3275.1094,904.6062 Q3275.1094,905.6844 3275.3281,906.5125 Q3275.5625,907.325 3276,907.8562 Q3276.4531,908.3875 3277.1094,908.6687 Q3277.7656,908.95 3278.6719,908.95 Q3279.3906,908.95 3280.0313,908.825 Q3280.6719,908.6844 3281.7344,908.3719 L3281.7344,910.3719 Q3281.1719,910.5906 3280.8281,910.6844 Q3280.5,910.7625 3280.125,910.8406 Q3279.7656,910.9031 3279.3438,910.9344 Q3278.9219,910.95 3278.4219,910.95 Q3276.9844,910.95 3275.9063,910.4969 Q3274.8438,910.0281 3274.1406,909.1844 Q3273.4531,908.325 3273.1094,907.1531 Q3272.7813,905.9812 3272.7813,904.5906 Q3272.7813,903.2156 3273.1719,902.0594 Q3273.5625,900.9031 3274.2969,900.0594 Q3275.0469,899.2156 3276.1406,898.7469 Q3277.25,898.2625 3278.6719,898.2625 Q3279.625,898.2625 3280.4688,898.4656 Q3281.3125,898.6531 3282.3281,899.1531 L3281.3438,901.0281 Q3280.5625,900.6219 3279.9844,900.45 Q3279.4063,900.2781 3278.6719,900.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="3299.25" y="909.74">UserEvent
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3150" x2="3488" y1="920.7" y2="920.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3150" x2="3488" y1="928.7" y2="928.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="328"
+                  x="3155" y="946.9799">+«Create» UserEvent(UserClient,UserModel)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="3155" y="965.4598">+void newClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3155" y="983.9398">+void modClick(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3155" y="1002.4197">+void delClick(int)
+            </text>
+        </g><!--MD5=[8388c124c861da08ef1a75502c737fdb]
+class moe.qie2035.market.ui.event.GoodsEvent-->
+        <g id="elem_moe.qie2035.market.ui.event.GoodsEvent">
+            <rect codeLine="31" fill="#F1F1F1" height="121.9197" id="moe.qie2035.market.ui.event.GoodsEvent" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="364" x="3524" y="888.7"/>
+            <ellipse cx="3661.75" cy="904.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M3661.6719,900.2781 Q3660.8594,900.2781 3660.2031,900.575 Q3659.5625,900.8562 3659.0938,901.4187 Q3658.6406,901.9656 3658.375,902.7781 Q3658.1094,903.575 3658.1094,904.6062 Q3658.1094,905.6844 3658.3281,906.5125 Q3658.5625,907.325 3659,907.8562 Q3659.4531,908.3875 3660.1094,908.6687 Q3660.7656,908.95 3661.6719,908.95 Q3662.3906,908.95 3663.0313,908.825 Q3663.6719,908.6844 3664.7344,908.3719 L3664.7344,910.3719 Q3664.1719,910.5906 3663.8281,910.6844 Q3663.5,910.7625 3663.125,910.8406 Q3662.7656,910.9031 3662.3438,910.9344 Q3661.9219,910.95 3661.4219,910.95 Q3659.9844,910.95 3658.9063,910.4969 Q3657.8438,910.0281 3657.1406,909.1844 Q3656.4531,908.325 3656.1094,907.1531 Q3655.7813,905.9812 3655.7813,904.5906 Q3655.7813,903.2156 3656.1719,902.0594 Q3656.5625,900.9031 3657.2969,900.0594 Q3658.0469,899.2156 3659.1406,898.7469 Q3660.25,898.2625 3661.6719,898.2625 Q3662.625,898.2625 3663.4688,898.4656 Q3664.3125,898.6531 3665.3281,899.1531 L3664.3438,901.0281 Q3663.5625,900.6219 3662.9844,900.45 Q3662.4063,900.2781 3661.6719,900.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="3682.25" y="909.74">GoodsEvent
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3525" x2="3887" y1="920.7" y2="920.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3525" x2="3887" y1="928.7" y2="928.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="352"
+                  x="3530" y="946.9799">+«Create» GoodsEvent(GoodsClient,GoodsModel)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="3530" y="965.4598">+void newClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3530" y="983.9398">+void modClick(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3530" y="1002.4197">+void delClick(int)
+            </text>
+        </g><!--MD5=[093796bb6e918a42bf79ae1285998e83]
+class moe.qie2035.market.ui.event.ITableEvent-->
+        <g id="elem_moe.qie2035.market.ui.event.ITableEvent">
+            <rect codeLine="86" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.ui.event.ITableEvent" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="212" x="3406" y="136.2"/>
+            <ellipse cx="3463.75" cy="152.2" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M3466.0156,158.7 L3460.9375,158.7 L3460.9375,157.2312 L3462.3594,156.9031 L3462.3594,147.8094 L3460.9375,147.4812 L3460.9375,146.0125 L3466.0156,146.0125 L3466.0156,147.4812 L3464.5938,147.8094 L3464.5938,156.9031 L3466.0156,157.2312 L3466.0156,158.7 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="88" x="3484.25" y="157.24">ITableEvent
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3407" x2="3617" y1="168.2" y2="168.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3407" x2="3617" y1="176.2" y2="176.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="3412" y="194.4799">~void preClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="3412" y="212.9598">~void nextClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="3412" y="231.4398">~void newClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3412" y="249.9197">~void modClick(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="3412" y="268.3996">~void delClick(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="3412" y="286.8795">~void searchClick(String)
+            </text>
+        </g><!--MD5=[731046af335dad4860cfae1a7436312a]
+class moe.qie2035.market.ui.event.AbsTableEvent-->
+        <g id="elem_moe.qie2035.market.ui.event.AbsTableEvent">
+            <rect codeLine="333" fill="#F1F1F1" height="232.7992" id="moe.qie2035.market.ui.event.AbsTableEvent"
+                  rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="236" x="3394" y="521.7"/>
+            <ellipse cx="3455.75" cy="537.7" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M3459.0938,543.2 L3457.7656,539.45 L3453.7344,539.45 L3452.3906,543.2 L3450.0938,543.2 L3454.8125,530.5125 L3456.7031,530.5125 L3461.4219,543.2 L3459.0938,543.2 Z M3457.0469,537.45 L3456,534.45 Q3455.9219,534.3094 3455.8438,534.075 Q3455.7813,533.8406 3455.7031,533.6062 Q3455.6406,533.3562 3455.5625,533.0906 Q3455.4844,532.825 3455.75,532.7312 Q3456.0156,532.8094 3455.9375,533.0906 Q3455.875,533.3719 3455.7969,533.6219 Q3455.7188,533.8719 3455.6406,534.0906 Q3455.5781,534.2937 3455.5313,534.4344 L3454.4844,537.45 L3457.0469,537.45 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="104" x="3476.25" y="542.74">AbsTableEvent
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3395" x2="3629" y1="553.7" y2="553.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="3400" y="571.9799">#int page
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="3400" y="590.4598">~C client
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="64"
+                  x="3400" y="608.9398">~M model
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="3400" y="627.4197">-String search
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3395" x2="3629" y1="635.6197" y2="635.6197"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="224"
+                  x="3400" y="653.8996">+«Create» AbsTableEvent(C,M)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="3400" y="672.3795">+void preClick()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="3400" y="690.8594">+void searchClick(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="3400" y="709.3394">#void update()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="3400" y="727.8193">#T check(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="3400" y="746.2992">+void nextClick()
+            </text>
+        </g><!--MD5=[726117b0f2f4a02ff5d72c5b39237bb4]
+class moe.qie2035.market.server.api.JsonAPI-->
+        <g id="elem_moe.qie2035.market.server.api.JsonAPI">
+            <rect codeLine="37" fill="#F1F1F1" height="214.3193" id="moe.qie2035.market.server.api.JsonAPI" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="628" x="4415" y="108.7"/>
+            <ellipse cx="4696.75" cy="124.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M4696.6719,120.2781 Q4695.8594,120.2781 4695.2031,120.575 Q4694.5625,120.8562 4694.0938,121.4187 Q4693.6406,121.9656 4693.375,122.7781 Q4693.1094,123.575 4693.1094,124.6062 Q4693.1094,125.6844 4693.3281,126.5125 Q4693.5625,127.325 4694,127.8562 Q4694.4531,128.3875 4695.1094,128.6687 Q4695.7656,128.95 4696.6719,128.95 Q4697.3906,128.95 4698.0313,128.825 Q4698.6719,128.6844 4699.7344,128.3719 L4699.7344,130.3719 Q4699.1719,130.5906 4698.8281,130.6844 Q4698.5,130.7625 4698.125,130.8406 Q4697.7656,130.9031 4697.3438,130.9344 Q4696.9219,130.95 4696.4219,130.95 Q4694.9844,130.95 4693.9063,130.4969 Q4692.8438,130.0281 4692.1406,129.1844 Q4691.4531,128.325 4691.1094,127.1531 Q4690.7813,125.9812 4690.7813,124.5906 Q4690.7813,123.2156 4691.1719,122.0594 Q4691.5625,120.9031 4692.2969,120.0594 Q4693.0469,119.2156 4694.1406,118.7469 Q4695.25,118.2625 4696.6719,118.2625 Q4697.625,118.2625 4698.4688,118.4656 Q4699.3125,118.6531 4700.3281,119.1531 L4699.3438,121.0281 Q4698.5625,120.6219 4697.9844,120.45 Q4697.4063,120.2781 4696.6719,120.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="56"
+                  x="4717.25" y="129.74">JsonAPI
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="4416" x2="5042" y1="140.7" y2="140.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="4416" x2="5042" y1="148.7" y2="148.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="272" x="4421" y="166.9799">+Response response(IStatus,Object)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="224" x="4421" y="185.4598">+Response response(CNStatus)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="264"
+                  x="4421" y="203.9398">+String getPostBody(IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="256"
+                  x="4421" y="222.4197">+String getPutBody(IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="4421" y="240.8996">+Response get(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="4421" y="259.3795">+Response put(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="472"
+                  x="4421" y="277.8594">+Response post(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="488"
+                  x="4421" y="296.3394">+Response delete(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="616"
+                  x="4421" y="314.8193">+Response other(String,UriResource,Map&lt;String,String&gt;,NanoHTTPD.IHTTPSession)
+            </text>
+        </g><!--MD5=[5f892486f8ac775204c3c5f84aba4af6]
+class moe.qie2035.market.server.api.UserAPI-->
+        <g id="elem_moe.qie2035.market.server.api.UserAPI">
+            <rect codeLine="108" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.server.api.UserAPI" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="500" x="3944" y="558.7"/>
+            <ellipse cx="4161.75" cy="574.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M4161.6719,570.2781 Q4160.8594,570.2781 4160.2031,570.575 Q4159.5625,570.8562 4159.0938,571.4187 Q4158.6406,571.9656 4158.375,572.7781 Q4158.1094,573.575 4158.1094,574.6062 Q4158.1094,575.6844 4158.3281,576.5125 Q4158.5625,577.325 4159,577.8562 Q4159.4531,578.3875 4160.1094,578.6687 Q4160.7656,578.95 4161.6719,578.95 Q4162.3906,578.95 4163.0313,578.825 Q4163.6719,578.6844 4164.7344,578.3719 L4164.7344,580.3719 Q4164.1719,580.5906 4163.8281,580.6844 Q4163.5,580.7625 4163.125,580.8406 Q4162.7656,580.9031 4162.3438,580.9344 Q4161.9219,580.95 4161.4219,580.95 Q4159.9844,580.95 4158.9063,580.4969 Q4157.8438,580.0281 4157.1406,579.1844 Q4156.4531,578.325 4156.1094,577.1531 Q4155.7813,575.9812 4155.7813,574.5906 Q4155.7813,573.2156 4156.1719,572.0594 Q4156.5625,570.9031 4157.2969,570.0594 Q4158.0469,569.2156 4159.1406,568.7469 Q4160.25,568.2625 4161.6719,568.2625 Q4162.625,568.2625 4163.4688,568.4656 Q4164.3125,568.6531 4165.3281,569.1531 L4164.3438,571.0281 Q4163.5625,570.6219 4162.9844,570.45 Q4162.4063,570.2781 4161.6719,570.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="56"
+                  x="4182.25" y="579.74">UserAPI
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3945" x2="4443" y1="590.7" y2="590.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="3950" y="608.9799">-User.Type TYPE
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="3950" y="627.4598">-String NAME
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="3945" x2="4443" y1="635.6598" y2="635.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="3950" y="653.9398">+Response get(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="3950" y="672.4197">+Response put(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="472"
+                  x="3950" y="690.8996">+Response post(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="488"
+                  x="3950" y="709.3795">+Response delete(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+        </g><!--MD5=[57a30b0bcfb787121369557835ef063e]
+class moe.qie2035.market.server.api.GoodsAPI-->
+        <g id="elem_moe.qie2035.market.server.api.GoodsAPI">
+            <rect codeLine="220" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.server.api.GoodsAPI" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="500" x="4479" y="558.7"/>
+            <ellipse cx="4692.75" cy="574.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M4692.6719,570.2781 Q4691.8594,570.2781 4691.2031,570.575 Q4690.5625,570.8562 4690.0938,571.4187 Q4689.6406,571.9656 4689.375,572.7781 Q4689.1094,573.575 4689.1094,574.6062 Q4689.1094,575.6844 4689.3281,576.5125 Q4689.5625,577.325 4690,577.8562 Q4690.4531,578.3875 4691.1094,578.6687 Q4691.7656,578.95 4692.6719,578.95 Q4693.3906,578.95 4694.0313,578.825 Q4694.6719,578.6844 4695.7344,578.3719 L4695.7344,580.3719 Q4695.1719,580.5906 4694.8281,580.6844 Q4694.5,580.7625 4694.125,580.8406 Q4693.7656,580.9031 4693.3438,580.9344 Q4692.9219,580.95 4692.4219,580.95 Q4690.9844,580.95 4689.9063,580.4969 Q4688.8438,580.0281 4688.1406,579.1844 Q4687.4531,578.325 4687.1094,577.1531 Q4686.7813,575.9812 4686.7813,574.5906 Q4686.7813,573.2156 4687.1719,572.0594 Q4687.5625,570.9031 4688.2969,570.0594 Q4689.0469,569.2156 4690.1406,568.7469 Q4691.25,568.2625 4692.6719,568.2625 Q4693.625,568.2625 4694.4688,568.4656 Q4695.3125,568.6531 4696.3281,569.1531 L4695.3438,571.0281 Q4694.5625,570.6219 4693.9844,570.45 Q4693.4063,570.2781 4692.6719,570.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="64"
+                  x="4713.25" y="579.74">GoodsAPI
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="4480" x2="4978" y1="590.7" y2="590.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="4485" y="608.9799">-User.Type TYPE
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="80" x="4485" y="627.4598">-String ID
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="4480" x2="4978" y1="635.6598" y2="635.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="4485" y="653.9398">+Response get(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="488"
+                  x="4485" y="672.4197">+Response delete(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="464"
+                  x="4485" y="690.8996">+Response put(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="472"
+                  x="4485" y="709.3795">+Response post(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+        </g><!--MD5=[d51972c7fbc0af8fd9ce11b5ead3610b]
+class moe.qie2035.market.server.api.LoginAPI-->
+        <g id="elem_moe.qie2035.market.server.api.LoginAPI">
+            <rect codeLine="381" fill="#F1F1F1" height="103.4398" id="moe.qie2035.market.server.api.LoginAPI" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="484" x="5014" y="586.7"/>
+            <ellipse cx="5219.75" cy="602.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M5219.6719,598.2781 Q5218.8594,598.2781 5218.2031,598.575 Q5217.5625,598.8562 5217.0938,599.4187 Q5216.6406,599.9656 5216.375,600.7781 Q5216.1094,601.575 5216.1094,602.6062 Q5216.1094,603.6844 5216.3281,604.5125 Q5216.5625,605.325 5217,605.8562 Q5217.4531,606.3875 5218.1094,606.6687 Q5218.7656,606.95 5219.6719,606.95 Q5220.3906,606.95 5221.0313,606.825 Q5221.6719,606.6844 5222.7344,606.3719 L5222.7344,608.3719 Q5222.1719,608.5906 5221.8281,608.6844 Q5221.5,608.7625 5221.125,608.8406 Q5220.7656,608.9031 5220.3438,608.9344 Q5219.9219,608.95 5219.4219,608.95 Q5217.9844,608.95 5216.9063,608.4969 Q5215.8438,608.0281 5215.1406,607.1844 Q5214.4531,606.325 5214.1094,605.1531 Q5213.7813,603.9812 5213.7813,602.5906 Q5213.7813,601.2156 5214.1719,600.0594 Q5214.5625,598.9031 5215.2969,598.0594 Q5216.0469,597.2156 5217.1406,596.7469 Q5218.25,596.2625 5219.6719,596.2625 Q5220.625,596.2625 5221.4688,596.4656 Q5222.3125,596.6531 5223.3281,597.1531 L5222.3438,599.0281 Q5221.5625,598.6219 5220.9844,598.45 Q5220.4063,598.2781 5219.6719,598.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="64"
+                  x="5240.25" y="607.74">LoginAPI
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5015" x2="5497" y1="618.7" y2="618.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5015" x2="5497" y1="626.7" y2="626.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="256" x="5020" y="644.9799">+boolean check(String,User.Type)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="304" x="5020" y="663.4598">+boolean
+                check(IHTTPSession,User.Type)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="472"
+                  x="5020" y="681.9398">+Response post(UriResource,Map&lt;String,String&gt;,IHTTPSession)
+            </text>
+        </g><!--MD5=[bc6ccb833b10acfa1a0e17bca8a27b08]
+class moe.qie2035.market.client.GoodsClient-->
+        <g id="elem_moe.qie2035.market.client.GoodsClient">
+            <rect codeLine="48" fill="#F1F1F1" height="140.3996" id="moe.qie2035.market.client.GoodsClient" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="236" x="5554" y="568.2"/>
+            <ellipse cx="5623.75" cy="584.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M5623.6719,579.7781 Q5622.8594,579.7781 5622.2031,580.075 Q5621.5625,580.3562 5621.0938,580.9187 Q5620.6406,581.4656 5620.375,582.2781 Q5620.1094,583.075 5620.1094,584.1062 Q5620.1094,585.1844 5620.3281,586.0125 Q5620.5625,586.825 5621,587.3562 Q5621.4531,587.8875 5622.1094,588.1687 Q5622.7656,588.45 5623.6719,588.45 Q5624.3906,588.45 5625.0313,588.325 Q5625.6719,588.1844 5626.7344,587.8719 L5626.7344,589.8719 Q5626.1719,590.0906 5625.8281,590.1844 Q5625.5,590.2625 5625.125,590.3406 Q5624.7656,590.4031 5624.3438,590.4344 Q5623.9219,590.45 5623.4219,590.45 Q5621.9844,590.45 5620.9063,589.9969 Q5619.8438,589.5281 5619.1406,588.6844 Q5618.4531,587.825 5618.1094,586.6531 Q5617.7813,585.4812 5617.7813,584.0906 Q5617.7813,582.7156 5618.1719,581.5594 Q5618.5625,580.4031 5619.2969,579.5594 Q5620.0469,578.7156 5621.1406,578.2469 Q5622.25,577.7625 5623.6719,577.7625 Q5624.625,577.7625 5625.4688,577.9656 Q5626.3125,578.1531 5627.3281,578.6531 L5626.3438,580.5281 Q5625.5625,580.1219 5624.9844,579.95 Q5624.4063,579.7781 5623.6719,579.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="5644.25" y="589.24">GoodsClient
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5555" x2="5789" y1="600.2" y2="600.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5555" x2="5789" y1="608.2" y2="608.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="216"
+                  x="5560" y="626.4799">+«Create» GoodsClient(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="224"
+                  x="5560" y="644.9598">+List&lt;Goods&gt; get(String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="5560" y="663.4398">+Msg post(Goods)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="5560" y="681.9197">+Msg put(Goods,Integer)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="5560" y="700.3996">+Msg delete(Integer)
+            </text>
+        </g><!--MD5=[d734b3fa633a3cac06dd64e2cfea2e61]
+class moe.qie2035.market.client.LoginClient-->
+        <g id="elem_moe.qie2035.market.client.LoginClient">
+            <rect codeLine="55" fill="#F1F1F1" height="140.3996" id="moe.qie2035.market.client.LoginClient" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="228" x="5825" y="568.2"/>
+            <ellipse cx="5890.75" cy="584.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M5890.6719,579.7781 Q5889.8594,579.7781 5889.2031,580.075 Q5888.5625,580.3562 5888.0938,580.9187 Q5887.6406,581.4656 5887.375,582.2781 Q5887.1094,583.075 5887.1094,584.1062 Q5887.1094,585.1844 5887.3281,586.0125 Q5887.5625,586.825 5888,587.3562 Q5888.4531,587.8875 5889.1094,588.1687 Q5889.7656,588.45 5890.6719,588.45 Q5891.3906,588.45 5892.0313,588.325 Q5892.6719,588.1844 5893.7344,587.8719 L5893.7344,589.8719 Q5893.1719,590.0906 5892.8281,590.1844 Q5892.5,590.2625 5892.125,590.3406 Q5891.7656,590.4031 5891.3438,590.4344 Q5890.9219,590.45 5890.4219,590.45 Q5888.9844,590.45 5887.9063,589.9969 Q5886.8438,589.5281 5886.1406,588.6844 Q5885.4531,587.825 5885.1094,586.6531 Q5884.7813,585.4812 5884.7813,584.0906 Q5884.7813,582.7156 5885.1719,581.5594 Q5885.5625,580.4031 5886.2969,579.5594 Q5887.0469,578.7156 5888.1406,578.2469 Q5889.25,577.7625 5890.6719,577.7625 Q5891.625,577.7625 5892.4688,577.9656 Q5893.3125,578.1531 5894.3281,578.6531 L5893.3438,580.5281 Q5892.5625,580.1219 5891.9844,579.95 Q5891.4063,579.7781 5890.6719,579.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="5911.25" y="589.24">LoginClient
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5826" x2="6052" y1="600.2" y2="600.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5826" x2="6052" y1="608.2" y2="608.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="5831" y="626.4799">+«Create» LoginClient()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="216"
+                  x="5831" y="644.9598">+List&lt;User&gt; get(String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="5831" y="663.4398">+Msg post(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="5831" y="681.9197">+Msg put(User,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="5831" y="700.3996">+Msg delete(String)
+            </text>
+        </g><!--MD5=[310c582d2a0868c9bb12287e1933ea62]
+class moe.qie2035.market.client.AbsClient-->
+        <g id="elem_moe.qie2035.market.client.AbsClient">
+            <rect codeLine="94" fill="#F1F1F1" height="269.759" id="moe.qie2035.market.client.AbsClient" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="300" x="5789" y="80.7"/>
+            <ellipse cx="5898.75" cy="96.7" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M5902.0938,102.2 L5900.7656,98.45 L5896.7344,98.45 L5895.3906,102.2 L5893.0938,102.2 L5897.8125,89.5125 L5899.7031,89.5125 L5904.4219,102.2 L5902.0938,102.2 Z M5900.0469,96.45 L5899,93.45 Q5898.9219,93.3094 5898.8438,93.075 Q5898.7813,92.8406 5898.7031,92.6062 Q5898.6406,92.3562 5898.5625,92.0906 Q5898.4844,91.825 5898.75,91.7312 Q5899.0156,91.8094 5898.9375,92.0906 Q5898.875,92.3719 5898.7969,92.6219 Q5898.7188,92.8719 5898.6406,93.0906 Q5898.5781,93.2937 5898.5313,93.4344 L5897.4844,96.45 L5900.0469,96.45 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="72" x="5919.25" y="101.74">AbsClient
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5790" x2="6088" y1="112.7" y2="112.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="5795" y="130.9799">#User user
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="5790" x2="6088" y1="139.1799" y2="139.1799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="5795" y="157.4598">#«Create» AbsClient(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="288"
+                  x="5795" y="175.9398">#String request(String,HttpMethod,T)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="288"
+                  x="5795" y="194.4197">#Msg requestMsg(String,HttpMethod,T)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="288"
+                  x="5795" y="212.8996">#String genPath(String,P,String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="5795" y="231.3795">#String genPath(String,P)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="5795" y="249.8594">#String genPath(String,String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="5795" y="268.3394">+List&lt;T&gt; get(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="192" x="5795" y="286.8193">+List&lt;T&gt; get(String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="96" x="5795" y="305.2992">+Msg post(T)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="104" x="5795" y="323.7791">+Msg put(T,P)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="112" x="5795" y="342.259">+Msg delete(P)
+            </text>
+        </g><!--MD5=[d43100d2bdfcbf6f2702627de30621db]
+class moe.qie2035.market.client.UserClient-->
+        <g id="elem_moe.qie2035.market.client.UserClient">
+            <rect codeLine="386" fill="#F1F1F1" height="140.3996" id="moe.qie2035.market.client.UserClient" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="228" x="6088" y="568.2"/>
+            <ellipse cx="6157.75" cy="584.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6157.6719,579.7781 Q6156.8594,579.7781 6156.2031,580.075 Q6155.5625,580.3562 6155.0938,580.9187 Q6154.6406,581.4656 6154.375,582.2781 Q6154.1094,583.075 6154.1094,584.1062 Q6154.1094,585.1844 6154.3281,586.0125 Q6154.5625,586.825 6155,587.3562 Q6155.4531,587.8875 6156.1094,588.1687 Q6156.7656,588.45 6157.6719,588.45 Q6158.3906,588.45 6159.0313,588.325 Q6159.6719,588.1844 6160.7344,587.8719 L6160.7344,589.8719 Q6160.1719,590.0906 6159.8281,590.1844 Q6159.5,590.2625 6159.125,590.3406 Q6158.7656,590.4031 6158.3438,590.4344 Q6157.9219,590.45 6157.4219,590.45 Q6155.9844,590.45 6154.9063,589.9969 Q6153.8438,589.5281 6153.1406,588.6844 Q6152.4531,587.825 6152.1094,586.6531 Q6151.7813,585.4812 6151.7813,584.0906 Q6151.7813,582.7156 6152.1719,581.5594 Q6152.5625,580.4031 6153.2969,579.5594 Q6154.0469,578.7156 6155.1406,578.2469 Q6156.25,577.7625 6157.6719,577.7625 Q6158.625,577.7625 6159.4688,577.9656 Q6160.3125,578.1531 6161.3281,578.6531 L6160.3438,580.5281 Q6159.5625,580.1219 6158.9844,579.95 Q6158.4063,579.7781 6157.6719,579.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="6178.25" y="589.24">UserClient
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6089" x2="6315" y1="600.2" y2="600.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6089" x2="6315" y1="608.2" y2="608.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="208"
+                  x="6094" y="626.4799">+«Create» UserClient(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="216"
+                  x="6094" y="644.9598">+List&lt;User&gt; get(String,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="6094" y="663.4398">+Msg post(User)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="6094" y="681.9197">+Msg put(User,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="6094" y="700.3996">+Msg delete(String)
+            </text>
+        </g><!--MD5=[888648a23d47dd4320062770c9dcdc52]
+class moe.qie2035.market.Config-->
+        <g id="elem_moe.qie2035.market.Config">
+            <rect codeLine="129" fill="#F1F1F1" height="214.3193" id="moe.qie2035.market.Config" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="156" x="7041" y="108.7"/>
+            <ellipse cx="7090.75" cy="124.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7090.6719,120.2781 Q7089.8594,120.2781 7089.2031,120.575 Q7088.5625,120.8562 7088.0938,121.4187 Q7087.6406,121.9656 7087.375,122.7781 Q7087.1094,123.575 7087.1094,124.6062 Q7087.1094,125.6844 7087.3281,126.5125 Q7087.5625,127.325 7088,127.8562 Q7088.4531,128.3875 7089.1094,128.6687 Q7089.7656,128.95 7090.6719,128.95 Q7091.3906,128.95 7092.0313,128.825 Q7092.6719,128.6844 7093.7344,128.3719 L7093.7344,130.3719 Q7093.1719,130.5906 7092.8281,130.6844 Q7092.5,130.7625 7092.125,130.8406 Q7091.7656,130.9031 7091.3438,130.9344 Q7090.9219,130.95 7090.4219,130.95 Q7088.9844,130.95 7087.9063,130.4969 Q7086.8438,130.0281 7086.1406,129.1844 Q7085.4531,128.325 7085.1094,127.1531 Q7084.7813,125.9812 7084.7813,124.5906 Q7084.7813,123.2156 7085.1719,122.0594 Q7085.5625,120.9031 7086.2969,120.0594 Q7087.0469,119.2156 7088.1406,118.7469 Q7089.25,118.2625 7090.6719,118.2625 Q7091.625,118.2625 7092.4688,118.4656 Q7093.3125,118.6531 7094.3281,119.1531 L7093.3438,121.0281 Q7092.5625,120.6219 7091.9844,120.45 Q7091.4063,120.2781 7090.6719,120.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="7111.25" y="129.74">Config
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7042" x2="7196" y1="140.7" y2="140.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="80" x="7047" y="158.9799">-File FILE
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="7047" y="177.4598">-Config config
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="7047" y="195.9398">-Server server
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="7047" y="214.4197">-Client client
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7047" y="232.8996">-Database database
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7042" x2="7196" y1="241.0996" y2="241.0996"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7047" y="259.3795">-«Create» Config()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="7047" y="277.8594">+Config get()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="7047" y="296.3394">-void load()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="7047" y="314.8193">+void save()
+            </text>
+        </g><!--MD5=[a3e1246fb184ca1a2cc8a7c9d0d0fc6c]
+class moe.qie2035.market.Config.Server-->
+        <g id="elem_moe.qie2035.market.Config.Server">
+            <rect codeLine="140" fill="#F1F1F1" height="103.4398" id="moe.qie2035.market.Config.Server" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="156" x="6850" y="586.7"/>
+            <ellipse cx="6874" cy="602.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6873.9219,598.2781 Q6873.1094,598.2781 6872.4531,598.575 Q6871.8125,598.8562 6871.3438,599.4187 Q6870.8906,599.9656 6870.625,600.7781 Q6870.3594,601.575 6870.3594,602.6062 Q6870.3594,603.6844 6870.5781,604.5125 Q6870.8125,605.325 6871.25,605.8562 Q6871.7031,606.3875 6872.3594,606.6687 Q6873.0156,606.95 6873.9219,606.95 Q6874.6406,606.95 6875.2813,606.825 Q6875.9219,606.6844 6876.9844,606.3719 L6876.9844,608.3719 Q6876.4219,608.5906 6876.0781,608.6844 Q6875.75,608.7625 6875.375,608.8406 Q6875.0156,608.9031 6874.5938,608.9344 Q6874.1719,608.95 6873.6719,608.95 Q6872.2344,608.95 6871.1563,608.4969 Q6870.0938,608.0281 6869.3906,607.1844 Q6868.7031,606.325 6868.3594,605.1531 Q6868.0313,603.9812 6868.0313,602.5906 Q6868.0313,601.2156 6868.4219,600.0594 Q6868.8125,598.9031 6869.5469,598.0594 Q6870.2969,597.2156 6871.3906,596.7469 Q6872.5,596.2625 6873.9219,596.2625 Q6874.875,596.2625 6875.7188,596.4656 Q6876.5625,596.6531 6877.5781,597.1531 L6876.5938,599.0281 Q6875.8125,598.6219 6875.2344,598.45 Q6874.6563,598.2781 6873.9219,598.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="6890" y="607.74">Config.Server
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6851" x2="7005" y1="618.7" y2="618.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="6856" y="636.9799">-int port
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="6856" y="655.4598">-int threads
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6851" x2="7005" y1="663.6598" y2="663.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="6856" y="681.9398">-«Create» Server()
+            </text>
+        </g><!--MD5=[09c4389ea5d648540d7aea48ebdb60e5]
+class moe.qie2035.market.Config.Client-->
+        <g id="elem_moe.qie2035.market.Config.Client">
+            <rect codeLine="145" fill="#F1F1F1" height="103.4398" id="moe.qie2035.market.Config.Client" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="156" x="7041" y="586.7"/>
+            <ellipse cx="7065" cy="602.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7064.9219,598.2781 Q7064.1094,598.2781 7063.4531,598.575 Q7062.8125,598.8562 7062.3438,599.4187 Q7061.8906,599.9656 7061.625,600.7781 Q7061.3594,601.575 7061.3594,602.6062 Q7061.3594,603.6844 7061.5781,604.5125 Q7061.8125,605.325 7062.25,605.8562 Q7062.7031,606.3875 7063.3594,606.6687 Q7064.0156,606.95 7064.9219,606.95 Q7065.6406,606.95 7066.2813,606.825 Q7066.9219,606.6844 7067.9844,606.3719 L7067.9844,608.3719 Q7067.4219,608.5906 7067.0781,608.6844 Q7066.75,608.7625 7066.375,608.8406 Q7066.0156,608.9031 7065.5938,608.9344 Q7065.1719,608.95 7064.6719,608.95 Q7063.2344,608.95 7062.1563,608.4969 Q7061.0938,608.0281 7060.3906,607.1844 Q7059.7031,606.325 7059.3594,605.1531 Q7059.0313,603.9812 7059.0313,602.5906 Q7059.0313,601.2156 7059.4219,600.0594 Q7059.8125,598.9031 7060.5469,598.0594 Q7061.2969,597.2156 7062.3906,596.7469 Q7063.5,596.2625 7064.9219,596.2625 Q7065.875,596.2625 7066.7188,596.4656 Q7067.5625,596.6531 7068.5781,597.1531 L7067.5938,599.0281 Q7066.8125,598.6219 7066.2344,598.45 Q7065.6563,598.2781 7064.9219,598.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="7081" y="607.74">Config.Client
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7042" x2="7196" y1="618.7" y2="618.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="7047" y="636.9799">-String host
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="7047" y="655.4598">-int port
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7042" x2="7196" y1="663.6598" y2="663.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7047" y="681.9398">-«Create» Client()
+            </text>
+        </g><!--MD5=[9ac49d2398c420310869600e759ac86d]
+class moe.qie2035.market.Config.Database-->
+        <g id="elem_moe.qie2035.market.Config.Database">
+            <rect codeLine="150" fill="#F1F1F1" height="214.3193" id="moe.qie2035.market.Config.Database" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="212" x="6603" y="531.2"/>
+            <ellipse cx="6645" cy="547.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6644.9219,542.7781 Q6644.1094,542.7781 6643.4531,543.075 Q6642.8125,543.3562 6642.3438,543.9187 Q6641.8906,544.4656 6641.625,545.2781 Q6641.3594,546.075 6641.3594,547.1062 Q6641.3594,548.1844 6641.5781,549.0125 Q6641.8125,549.825 6642.25,550.3562 Q6642.7031,550.8875 6643.3594,551.1687 Q6644.0156,551.45 6644.9219,551.45 Q6645.6406,551.45 6646.2813,551.325 Q6646.9219,551.1844 6647.9844,550.8719 L6647.9844,552.8719 Q6647.4219,553.0906 6647.0781,553.1844 Q6646.75,553.2625 6646.375,553.3406 Q6646.0156,553.4031 6645.5938,553.4344 Q6645.1719,553.45 6644.6719,553.45 Q6643.2344,553.45 6642.1563,552.9969 Q6641.0938,552.5281 6640.3906,551.6844 Q6639.7031,550.825 6639.3594,549.6531 Q6639.0313,548.4812 6639.0313,547.0906 Q6639.0313,545.7156 6639.4219,544.5594 Q6639.8125,543.4031 6640.5469,542.5594 Q6641.2969,541.7156 6642.3906,541.2469 Q6643.5,540.7625 6644.9219,540.7625 Q6645.875,540.7625 6646.7188,540.9656 Q6647.5625,541.1531 6648.5781,541.6531 L6647.5938,543.5281 Q6646.8125,543.1219 6646.2344,542.95 Q6645.6563,542.7781 6644.9219,542.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="6665" y="552.24">Config.Database
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6604" x2="6814" y1="563.2" y2="563.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="6609" y="581.4799">-Type type
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="6609" y="599.9598">-String name
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="6609" y="618.4398">-String host
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="6609" y="636.9197">-int port
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="6609" y="655.3996">-String username
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="6609" y="673.8795">-String password
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6604" x2="6814" y1="682.0795" y2="682.0795"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="6609" y="700.3594">-«Create» Database()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="6609" y="718.8394">+String decPassword()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="6609" y="737.3193">+void encPassword(String)
+            </text>
+        </g><!--MD5=[d750194fb155aabceb941da5f4d517e6]
+class moe.qie2035.market.Config.Database.Type-->
+        <g id="elem_moe.qie2035.market.Config.Database.Type">
+            <rect codeLine="161" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.Config.Database.Type" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="244" x="6762" y="136.2"/>
+            <ellipse cx="6800.4" cy="152.2" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6803.5406,158.7 L6796.5563,158.7 L6796.5563,146.0125 L6803.5406,146.0125 L6803.5406,148.0125 L6798.7906,148.0125 L6798.7906,150.95 L6803.2281,150.95 L6803.2281,152.95 L6798.7906,152.95 L6798.7906,156.7 L6803.5406,156.7 L6803.5406,158.7 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="6819.6" y="157.24">Config.Database.Type
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6763" x2="7005" y1="168.2" y2="168.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="24"
+                  x="6768" y="186.4799">+H2
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="6768" y="204.9598">+MYSQL
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="6768" y="223.4398">-String name
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="6768" y="241.9197">-String drvName
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6763" x2="7005" y1="250.1197" y2="250.1197"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="232"
+                  x="6768" y="268.3996">~«Create» Type(String,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="6768" y="286.8795">+String getDrvName()
+            </text>
+        </g><!--MD5=[a7b07e815da475de80df0cec6eefaa24]
+class moe.qie2035.market.Const-->
+        <g id="elem_moe.qie2035.market.Const">
+            <rect codeLine="303" fill="#F1F1F1" height="343.6787" id="moe.qie2035.market.Const" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="148" x="6579" y="43.7"/>
+            <ellipse cx="6628.75" cy="59.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6628.6719,55.2781 Q6627.8594,55.2781 6627.2031,55.575 Q6626.5625,55.8562 6626.0938,56.4187 Q6625.6406,56.9656 6625.375,57.7781 Q6625.1094,58.575 6625.1094,59.6062 Q6625.1094,60.6844 6625.3281,61.5125 Q6625.5625,62.325 6626,62.8562 Q6626.4531,63.3875 6627.1094,63.6687 Q6627.7656,63.95 6628.6719,63.95 Q6629.3906,63.95 6630.0313,63.825 Q6630.6719,63.6844 6631.7344,63.3719 L6631.7344,65.3719 Q6631.1719,65.5906 6630.8281,65.6844 Q6630.5,65.7625 6630.125,65.8406 Q6629.7656,65.9031 6629.3438,65.9344 Q6628.9219,65.95 6628.4219,65.95 Q6626.9844,65.95 6625.9063,65.4969 Q6624.8438,65.0281 6624.1406,64.1844 Q6623.4531,63.325 6623.1094,62.1531 Q6622.7813,60.9812 6622.7813,59.5906 Q6622.7813,58.2156 6623.1719,57.0594 Q6623.5625,55.9031 6624.2969,55.0594 Q6625.0469,54.2156 6626.1406,53.7469 Q6627.25,53.2625 6628.6719,53.2625 Q6629.625,53.2625 6630.4688,53.4656 Q6631.3125,53.6531 6632.3281,54.1531 L6631.3438,56.0281 Q6630.5625,55.6219 6629.9844,55.45 Q6629.4063,55.2781 6628.6719,55.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="40"
+                  x="6649.25" y="64.74">Const
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6580" x2="6726" y1="75.7" y2="75.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="6585" y="93.9799">+String SUCCESS
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="6585" y="112.4598">+String FAILED
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="64" x="6585" y="130.9398">+int GAP
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="72" x="6585" y="149.4197">+int GAP2
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="64" x="6585" y="167.8996">+int COL
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="6585" y="186.3795">+String LOGIN
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="6585" y="204.8594">+String USER
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="6585" y="223.3394">+String GOODS
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="6585" y="241.8193">+String SEARCH
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="6585" y="260.2992">+String PAGE
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="6585" y="278.7791">+String AUTH
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="6585" y="297.259">+int PAGE_SIZE
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="96" x="6585" y="315.739">+String MIME
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="80" x="6585" y="334.2189">+String OK
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="6585" y="352.6988">+String CANCEL
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6580" x2="6726" y1="360.8988" y2="360.8988"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="6585" y="379.1787">-«Create» Const()
+            </text>
+        </g><!--MD5=[8d25e93a02849f1c6de7d1caf7587175]
+class moe.qie2035.market.Main-->
+        <g id="elem_moe.qie2035.market.Main">
+            <rect codeLine="378" fill="#F1F1F1" height="66.4799" id="moe.qie2035.market.Main" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="172" x="6372" y="182.7"/>
+            <ellipse cx="6437.75" cy="198.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M6437.6719,194.2781 Q6436.8594,194.2781 6436.2031,194.575 Q6435.5625,194.8562 6435.0938,195.4187 Q6434.6406,195.9656 6434.375,196.7781 Q6434.1094,197.575 6434.1094,198.6062 Q6434.1094,199.6844 6434.3281,200.5125 Q6434.5625,201.325 6435,201.8562 Q6435.4531,202.3875 6436.1094,202.6687 Q6436.7656,202.95 6437.6719,202.95 Q6438.3906,202.95 6439.0313,202.825 Q6439.6719,202.6844 6440.7344,202.3719 L6440.7344,204.3719 Q6440.1719,204.5906 6439.8281,204.6844 Q6439.5,204.7625 6439.125,204.8406 Q6438.7656,204.9031 6438.3438,204.9344 Q6437.9219,204.95 6437.4219,204.95 Q6435.9844,204.95 6434.9063,204.4969 Q6433.8438,204.0281 6433.1406,203.1844 Q6432.4531,202.325 6432.1094,201.1531 Q6431.7813,199.9812 6431.7813,198.5906 Q6431.7813,197.2156 6432.1719,196.0594 Q6432.5625,194.9031 6433.2969,194.0594 Q6434.0469,193.2156 6435.1406,192.7469 Q6436.25,192.2625 6437.6719,192.2625 Q6438.625,192.2625 6439.4688,192.4656 Q6440.3125,192.6531 6441.3281,193.1531 L6440.3438,195.0281 Q6439.5625,194.6219 6438.9844,194.45 Q6438.4063,194.2781 6437.6719,194.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="32"
+                  x="6458.25" y="203.74">Main
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6373" x2="6543" y1="214.7" y2="214.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="6373" x2="6543" y1="222.7" y2="222.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="160" x="6378" y="240.9799">+void main(String[])
+            </text>
+        </g><!--MD5=[d3415c60e68e0a9e6a8b21a418f219cb]
+class moe.qie2035.market.ui.model.AbsModel-->
+        <g id="elem_moe.qie2035.market.ui.model.AbsModel">
+            <rect codeLine="169" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.ui.model.AbsModel" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="220" x="7432" y="136.2"/>
+            <ellipse cx="7505.75" cy="152.2" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7509.0938,157.7 L7507.7656,153.95 L7503.7344,153.95 L7502.3906,157.7 L7500.0938,157.7 L7504.8125,145.0125 L7506.7031,145.0125 L7511.4219,157.7 L7509.0938,157.7 Z M7507.0469,151.95 L7506,148.95 Q7505.9219,148.8094 7505.8438,148.575 Q7505.7813,148.3406 7505.7031,148.1062 Q7505.6406,147.8562 7505.5625,147.5906 Q7505.4844,147.325 7505.75,147.2312 Q7506.0156,147.3094 7505.9375,147.5906 Q7505.875,147.8719 7505.7969,148.1219 Q7505.7188,148.3719 7505.6406,148.5906 Q7505.5781,148.7937 7505.5313,148.9344 L7504.4844,151.95 L7507.0469,151.95 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="64" x="7526.25" y="157.24">AbsModel
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7433" x2="7651" y1="168.2" y2="168.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7433" x2="7651" y1="176.2" y2="176.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7438" y="194.4799">+int getRowCount()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="208"
+                  x="7438" y="212.9598">+String getColumnName(int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="7438" y="231.4398">+int getColumnCount()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="168" x="7438" y="249.9197">+String[] getHeader()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="176" x="7438" y="268.3996">+void setData(List&lt;T&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="112" x="7438" y="286.8795">+T getOne(int)
+            </text>
+        </g><!--MD5=[6f991962479078a7e593915bc3a869c4]
+class moe.qie2035.market.ui.model.GoodsModel-->
+        <g id="elem_moe.qie2035.market.ui.model.GoodsModel">
+            <rect codeLine="321" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.ui.model.GoodsModel" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="276" x="7253" y="549.7"/>
+            <ellipse cx="7346.75" cy="565.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7346.6719,561.2781 Q7345.8594,561.2781 7345.2031,561.575 Q7344.5625,561.8562 7344.0938,562.4187 Q7343.6406,562.9656 7343.375,563.7781 Q7343.1094,564.575 7343.1094,565.6062 Q7343.1094,566.6844 7343.3281,567.5125 Q7343.5625,568.325 7344,568.8562 Q7344.4531,569.3875 7345.1094,569.6687 Q7345.7656,569.95 7346.6719,569.95 Q7347.3906,569.95 7348.0313,569.825 Q7348.6719,569.6844 7349.7344,569.3719 L7349.7344,571.3719 Q7349.1719,571.5906 7348.8281,571.6844 Q7348.5,571.7625 7348.125,571.8406 Q7347.7656,571.9031 7347.3438,571.9344 Q7346.9219,571.95 7346.4219,571.95 Q7344.9844,571.95 7343.9063,571.4969 Q7342.8438,571.0281 7342.1406,570.1844 Q7341.4531,569.325 7341.1094,568.1531 Q7340.7813,566.9812 7340.7813,565.5906 Q7340.7813,564.2156 7341.1719,563.0594 Q7341.5625,561.9031 7342.2969,561.0594 Q7343.0469,560.2156 7344.1406,559.7469 Q7345.25,559.2625 7346.6719,559.2625 Q7347.625,559.2625 7348.4688,559.4656 Q7349.3125,559.6531 7350.3281,560.1531 L7349.3438,562.0281 Q7348.5625,561.6219 7347.9844,561.45 Q7347.4063,561.2781 7346.6719,561.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="7367.25" y="570.74">GoodsModel
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7254" x2="7528" y1="581.7" y2="581.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="128" x="7259" y="599.9799">-String[] header
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="7259" y="618.4598">-List&lt;Goods&gt; goodsList
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7254" x2="7528" y1="626.6598" y2="626.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="264"
+                  x="7259" y="644.9398">+«Create» GoodsModel(List&lt;Goods&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="216"
+                  x="7259" y="663.4197">+Object getValueAt(int,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="7259" y="681.8996">+String[] getHeader()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="208"
+                  x="7259" y="700.3795">+void setData(List&lt;Goods&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7259" y="718.8594">+Goods getOne(int)
+            </text>
+        </g><!--MD5=[20765d6c15b9d077451fd8e5327ac431]
+class moe.qie2035.market.ui.model.UserModel-->
+        <g id="elem_moe.qie2035.market.ui.model.UserModel">
+            <rect codeLine="345" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.ui.model.UserModel" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="260" x="7564" y="549.7"/>
+            <ellipse cx="7653.75" cy="565.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7653.6719,561.2781 Q7652.8594,561.2781 7652.2031,561.575 Q7651.5625,561.8562 7651.0938,562.4187 Q7650.6406,562.9656 7650.375,563.7781 Q7650.1094,564.575 7650.1094,565.6062 Q7650.1094,566.6844 7650.3281,567.5125 Q7650.5625,568.325 7651,568.8562 Q7651.4531,569.3875 7652.1094,569.6687 Q7652.7656,569.95 7653.6719,569.95 Q7654.3906,569.95 7655.0313,569.825 Q7655.6719,569.6844 7656.7344,569.3719 L7656.7344,571.3719 Q7656.1719,571.5906 7655.8281,571.6844 Q7655.5,571.7625 7655.125,571.8406 Q7654.7656,571.9031 7654.3438,571.9344 Q7653.9219,571.95 7653.4219,571.95 Q7651.9844,571.95 7650.9063,571.4969 Q7649.8438,571.0281 7649.1406,570.1844 Q7648.4531,569.325 7648.1094,568.1531 Q7647.7813,566.9812 7647.7813,565.5906 Q7647.7813,564.2156 7648.1719,563.0594 Q7648.5625,561.9031 7649.2969,561.0594 Q7650.0469,560.2156 7651.1406,559.7469 Q7652.25,559.2625 7653.6719,559.2625 Q7654.625,559.2625 7655.4688,559.4656 Q7656.3125,559.6531 7657.3281,560.1531 L7656.3438,562.0281 Q7655.5625,561.6219 7654.9844,561.45 Q7654.4063,561.2781 7653.6719,561.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="7674.25" y="570.74">UserModel
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7565" x2="7823" y1="581.7" y2="581.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="128" x="7570" y="599.9799">-String[] header
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="7570" y="618.4598">-List&lt;User&gt; userList
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7565" x2="7823" y1="626.6598" y2="626.6598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="248"
+                  x="7570" y="644.9398">+«Create» UserModel(List&lt;User&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="216"
+                  x="7570" y="663.4197">+Object getValueAt(int,int)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="7570" y="681.8996">+String[] getHeader()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="7570" y="700.3795">+void setData(List&lt;User&gt;)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="7570" y="718.8594">+User getOne(int)
+            </text>
+        </g><!--MD5=[f621acb6dc93f859ed730889bf227840]
+class moe.qie2035.market.ui.OptMenu-->
+        <g id="elem_moe.qie2035.market.ui.OptMenu">
+            <rect codeLine="177" fill="#F1F1F1" height="251.2791" id="moe.qie2035.market.ui.OptMenu" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="284" x="7880" y="90.2"/>
+            <ellipse cx="7989.75" cy="106.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M7989.6719,101.7781 Q7988.8594,101.7781 7988.2031,102.075 Q7987.5625,102.3562 7987.0938,102.9187 Q7986.6406,103.4656 7986.375,104.2781 Q7986.1094,105.075 7986.1094,106.1062 Q7986.1094,107.1844 7986.3281,108.0125 Q7986.5625,108.825 7987,109.3562 Q7987.4531,109.8875 7988.1094,110.1687 Q7988.7656,110.45 7989.6719,110.45 Q7990.3906,110.45 7991.0313,110.325 Q7991.6719,110.1844 7992.7344,109.8719 L7992.7344,111.8719 Q7992.1719,112.0906 7991.8281,112.1844 Q7991.5,112.2625 7991.125,112.3406 Q7990.7656,112.4031 7990.3438,112.4344 Q7989.9219,112.45 7989.4219,112.45 Q7987.9844,112.45 7986.9063,111.9969 Q7985.8438,111.5281 7985.1406,110.6844 Q7984.4531,109.825 7984.1094,108.6531 Q7983.7813,107.4812 7983.7813,106.0906 Q7983.7813,104.7156 7984.1719,103.5594 Q7984.5625,102.4031 7985.2969,101.5594 Q7986.0469,100.7156 7987.1406,100.2469 Q7988.25,99.7625 7989.6719,99.7625 Q7990.625,99.7625 7991.4688,99.9656 Q7992.3125,100.1531 7993.3281,100.6531 L7992.3438,102.5281 Q7991.5625,102.1219 7990.9844,101.95 Q7990.4063,101.7781 7989.6719,101.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="56"
+                  x="8010.25" y="111.24">OptMenu
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7881" x2="8163" y1="122.2" y2="122.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="7886" y="140.4799">+String START
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="104" x="7886" y="158.9598">+String ABOUT
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="128" x="7886" y="177.4398">-OptMenu optMenu
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="136" x="7886" y="195.9197">-JMenuBar menuBar
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="7886" y="214.3996">-JMenuItem srvItem
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="7881" x2="8163" y1="222.5996" y2="222.5996"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="7886" y="240.8795">-«Create» OptMenu()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="176" x="7886" y="259.3594">+JMenuBar getMenuBar()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="7886" y="277.8394">-void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="7886" y="296.3193">-void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="7886" y="314.7992">-void onSrv()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="7886" y="333.2791">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[abb006bd03256025906912109cf1b094]
+class moe.qie2035.market.ui.frame.TableFrame-->
+        <g id="elem_moe.qie2035.market.ui.frame.TableFrame">
+            <rect codeLine="190" fill="#F1F1F1" height="195.8394" id="moe.qie2035.market.ui.frame.TableFrame" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="8220" y="540.2"/>
+            <ellipse cx="8389.75" cy="556.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M8389.6719,551.7781 Q8388.8594,551.7781 8388.2031,552.075 Q8387.5625,552.3562 8387.0938,552.9187 Q8386.6406,553.4656 8386.375,554.2781 Q8386.1094,555.075 8386.1094,556.1062 Q8386.1094,557.1844 8386.3281,558.0125 Q8386.5625,558.825 8387,559.3562 Q8387.4531,559.8875 8388.1094,560.1687 Q8388.7656,560.45 8389.6719,560.45 Q8390.3906,560.45 8391.0313,560.325 Q8391.6719,560.1844 8392.7344,559.8719 L8392.7344,561.8719 Q8392.1719,562.0906 8391.8281,562.1844 Q8391.5,562.2625 8391.125,562.3406 Q8390.7656,562.4031 8390.3438,562.4344 Q8389.9219,562.45 8389.4219,562.45 Q8387.9844,562.45 8386.9063,561.9969 Q8385.8438,561.5281 8385.1406,560.6844 Q8384.4531,559.825 8384.1094,558.6531 Q8383.7813,557.4812 8383.7813,556.0906 Q8383.7813,554.7156 8384.1719,553.5594 Q8384.5625,552.4031 8385.2969,551.5594 Q8386.0469,550.7156 8387.1406,550.2469 Q8388.25,549.7625 8389.6719,549.7625 Q8390.625,549.7625 8391.4688,549.9656 Q8392.3125,550.1531 8393.3281,550.6531 L8392.3438,552.5281 Q8391.5625,552.1219 8390.9844,551.95 Q8390.4063,551.7781 8389.6719,551.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="8410.25" y="561.24">TableFrame
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8221" x2="8647" y1="572.2" y2="572.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="8226" y="590.4799">-ITableEvent tableEvent
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="8226" y="608.9598">-JButton preBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="8226" y="627.4398">-JTextField searchField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="8226" y="645.9197">-JTable table
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8221" x2="8647" y1="654.1197" y2="654.1197"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="416"
+                  x="8226" y="672.3996">+«Create» TableFrame(String,AbsModel&lt;?&gt;,ITableEvent)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="8226" y="690.8795">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="8226" y="709.3594">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="8226" y="727.8394">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[bd5cc5dd3c77238122d660e7f4b8619c]
+class moe.qie2035.market.ui.frame.AbsFrame-->
+        <g id="elem_moe.qie2035.market.ui.frame.AbsFrame">
+            <rect codeLine="237" fill="#F1F1F1" height="103.4398" id="moe.qie2035.market.ui.frame.AbsFrame" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="172" x="8543" y="164.2"/>
+            <ellipse cx="8592.75" cy="180.2" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M8596.0938,185.7 L8594.7656,181.95 L8590.7344,181.95 L8589.3906,185.7 L8587.0938,185.7 L8591.8125,173.0125 L8593.7031,173.0125 L8598.4219,185.7 L8596.0938,185.7 Z M8594.0469,179.95 L8593,176.95 Q8592.9219,176.8094 8592.8438,176.575 Q8592.7813,176.3406 8592.7031,176.1062 Q8592.6406,175.8562 8592.5625,175.5906 Q8592.4844,175.325 8592.75,175.2312 Q8593.0156,175.3094 8592.9375,175.5906 Q8592.875,175.8719 8592.7969,176.1219 Q8592.7188,176.3719 8592.6406,176.5906 Q8592.5781,176.7937 8592.5313,176.9344 L8591.4844,179.95 L8594.0469,179.95 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="64" x="8613.25" y="185.24">AbsFrame
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8544" x2="8714" y1="196.2" y2="196.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8544" x2="8714" y1="204.2" y2="204.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="8549" y="222.4799">+«Create» AbsFrame()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="96" x="8549" y="240.9598">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="96" x="8549" y="259.4398">#void bind()
+            </text>
+        </g><!--MD5=[1b9a53268899104578602b01f8d9bf27]
+class moe.qie2035.market.ui.frame.LoginFrame-->
+        <g id="elem_moe.qie2035.market.ui.frame.LoginFrame">
+            <rect codeLine="363" fill="#F1F1F1" height="288.239" id="moe.qie2035.market.ui.frame.LoginFrame" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="8683" y="494.2"/>
+            <ellipse cx="8780.75" cy="510.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M8780.6719,505.7781 Q8779.8594,505.7781 8779.2031,506.075 Q8778.5625,506.3562 8778.0938,506.9187 Q8777.6406,507.4656 8777.375,508.2781 Q8777.1094,509.075 8777.1094,510.1062 Q8777.1094,511.1844 8777.3281,512.0125 Q8777.5625,512.825 8778,513.3562 Q8778.4531,513.8875 8779.1094,514.1687 Q8779.7656,514.45 8780.6719,514.45 Q8781.3906,514.45 8782.0313,514.325 Q8782.6719,514.1844 8783.7344,513.8719 L8783.7344,515.8719 Q8783.1719,516.0906 8782.8281,516.1844 Q8782.5,516.2625 8782.125,516.3406 Q8781.7656,516.4031 8781.3438,516.4344 Q8780.9219,516.45 8780.4219,516.45 Q8778.9844,516.45 8777.9063,515.9969 Q8776.8438,515.5281 8776.1406,514.6844 Q8775.4531,513.825 8775.1094,512.6531 Q8774.7813,511.4812 8774.7813,510.0906 Q8774.7813,508.7156 8775.1719,507.5594 Q8775.5625,506.4031 8776.2969,505.5594 Q8777.0469,504.7156 8778.1406,504.2469 Q8779.25,503.7625 8780.6719,503.7625 Q8781.625,503.7625 8782.4688,503.9656 Q8783.3125,504.1531 8784.3281,504.6531 L8783.3438,506.5281 Q8782.5625,506.1219 8781.9844,505.95 Q8781.4063,505.7781 8780.6719,505.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="8801.25" y="515.24">LoginFrame
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8684" x2="8966" y1="526.2" y2="526.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="136" x="8689" y="544.4799">-LoginFrame frame
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="200"
+                  x="8689" y="562.9598">-JTextField usernameField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="232"
+                  x="8689" y="581.4398">-JPasswordField passwordField
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="136"
+                  x="8689" y="599.9197">-JButton loginBtn
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="8689" y="618.3996">-Box labelBox
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8684" x2="8966" y1="626.5996" y2="626.5996"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="8689" y="644.8795">-«Create» LoginFrame()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="8689" y="663.3594">+void create()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="8689" y="681.8394">#void init()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="8689" y="700.3193">-void initComs()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="8689" y="718.7992">-void initLayout()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="8689" y="737.2791">#void bind()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="8689" y="755.759">-void onLogin()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="272"
+                  x="8689" y="774.239">+void actionPerformed(ActionEvent)
+            </text>
+        </g><!--MD5=[e93c179d37fb47efbffc7b7b6dad37b0]
+class moe.qie2035.market.utils.SQL-->
+        <g id="elem_moe.qie2035.market.utils.SQL">
+            <rect codeLine="228" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.utils.SQL" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="420" x="673" y="127.2"/>
+            <ellipse cx="866.75" cy="143.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M866.6719,138.7781 Q865.8594,138.7781 865.2031,139.075 Q864.5625,139.3562 864.0938,139.9187 Q863.6406,140.4656 863.375,141.2781 Q863.1094,142.075 863.1094,143.1062 Q863.1094,144.1844 863.3281,145.0125 Q863.5625,145.825 864,146.3562 Q864.4531,146.8875 865.1094,147.1687 Q865.7656,147.45 866.6719,147.45 Q867.3906,147.45 868.0313,147.325 Q868.6719,147.1844 869.7344,146.8719 L869.7344,148.8719 Q869.1719,149.0906 868.8281,149.1844 Q868.5,149.2625 868.125,149.3406 Q867.7656,149.4031 867.3438,149.4344 Q866.9219,149.45 866.4219,149.45 Q864.9844,149.45 863.9063,148.9969 Q862.8438,148.5281 862.1406,147.6844 Q861.4531,146.825 861.1094,145.6531 Q860.7813,144.4812 860.7813,143.0906 Q860.7813,141.7156 861.1719,140.5594 Q861.5625,139.4031 862.2969,138.5594 Q863.0469,137.7156 864.1406,137.2469 Q865.25,136.7625 866.6719,136.7625 Q867.625,136.7625 868.4688,136.9656 Q869.3125,137.1531 870.3281,137.6531 L869.3438,139.5281 Q868.5625,139.1219 867.9844,138.95 Q867.4063,138.7781 866.6719,138.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="24"
+                  x="887.25" y="148.24">SQL
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="674" x2="1092" y1="159.2" y2="159.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="679" y="177.4799">-SuidRich suid
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="674" x2="1092" y1="185.6799" y2="185.6799"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="679" y="203.9598">-«Create» SQL()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="679" y="222.4398">+SuidRich get()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="679" y="240.9197">+void refresh()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="679" y="259.3996">-void initH2()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="248" x="679" y="277.8795">-String genUrl(Config.Database)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="408" x="679" y="296.3594">+ConditionImpl
+                getCondition(NanoHTTPD.IHTTPSession)
+            </text>
+        </g><!--MD5=[1c2c8a39a847a2bc1857a0a289e73dc3]
+class moe.qie2035.market.utils.Crypto-->
+        <g id="elem_moe.qie2035.market.utils.Crypto">
+            <rect codeLine="242" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.utils.Crypto" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="220" x="1128" y="127.2"/>
+            <ellipse cx="1209.75" cy="143.2" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1209.6719,138.7781 Q1208.8594,138.7781 1208.2031,139.075 Q1207.5625,139.3562 1207.0938,139.9187 Q1206.6406,140.4656 1206.375,141.2781 Q1206.1094,142.075 1206.1094,143.1062 Q1206.1094,144.1844 1206.3281,145.0125 Q1206.5625,145.825 1207,146.3562 Q1207.4531,146.8875 1208.1094,147.1687 Q1208.7656,147.45 1209.6719,147.45 Q1210.3906,147.45 1211.0313,147.325 Q1211.6719,147.1844 1212.7344,146.8719 L1212.7344,148.8719 Q1212.1719,149.0906 1211.8281,149.1844 Q1211.5,149.2625 1211.125,149.3406 Q1210.7656,149.4031 1210.3438,149.4344 Q1209.9219,149.45 1209.4219,149.45 Q1207.9844,149.45 1206.9063,148.9969 Q1205.8438,148.5281 1205.1406,147.6844 Q1204.4531,146.825 1204.1094,145.6531 Q1203.7813,144.4812 1203.7813,143.0906 Q1203.7813,141.7156 1204.1719,140.5594 Q1204.5625,139.4031 1205.2969,138.5594 Q1206.0469,137.7156 1207.1406,137.2469 Q1208.25,136.7625 1209.6719,136.7625 Q1210.625,136.7625 1211.4688,136.9656 Q1212.3125,137.1531 1213.3281,137.6531 L1212.3438,139.5281 Q1211.5625,139.1219 1210.9844,138.95 Q1210.4063,138.7781 1209.6719,138.7781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="1230.25" y="148.24">Crypto
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1129" x2="1347" y1="159.2" y2="159.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="88" x="1134" y="177.4799">+String KEY
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="176" x="1134" y="195.9598">-String TRANSFORMATION
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1129" x2="1347" y1="204.1598" y2="204.1598"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="1134" y="222.4398">-«Create» Crypto()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="208" x="1134" y="240.9197">+String enc(String,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="152" x="1134" y="259.3996">+String enc(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="208" x="1134" y="277.8795">+String dec(String,String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="152" x="1134" y="296.3594">+String dec(String)
+            </text>
+        </g><!--MD5=[e9c4280df0c763006f9cfa906ea9486d]
+class moe.qie2035.market.utils.MsgBox-->
+        <g id="elem_moe.qie2035.market.utils.MsgBox">
+            <rect codeLine="276" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.utils.MsgBox" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="196" x="785" y="558.7"/>
+            <ellipse cx="854.75" cy="574.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M854.6719,570.2781 Q853.8594,570.2781 853.2031,570.575 Q852.5625,570.8562 852.0938,571.4187 Q851.6406,571.9656 851.375,572.7781 Q851.1094,573.575 851.1094,574.6062 Q851.1094,575.6844 851.3281,576.5125 Q851.5625,577.325 852,577.8562 Q852.4531,578.3875 853.1094,578.6687 Q853.7656,578.95 854.6719,578.95 Q855.3906,578.95 856.0313,578.825 Q856.6719,578.6844 857.7344,578.3719 L857.7344,580.3719 Q857.1719,580.5906 856.8281,580.6844 Q856.5,580.7625 856.125,580.8406 Q855.7656,580.9031 855.3438,580.9344 Q854.9219,580.95 854.4219,580.95 Q852.9844,580.95 851.9063,580.4969 Q850.8438,580.0281 850.1406,579.1844 Q849.4531,578.325 849.1094,577.1531 Q848.7813,575.9812 848.7813,574.5906 Q848.7813,573.2156 849.1719,572.0594 Q849.5625,570.9031 850.2969,570.0594 Q851.0469,569.2156 852.1406,568.7469 Q853.25,568.2625 854.6719,568.2625 Q855.625,568.2625 856.4688,568.4656 Q857.3125,568.6531 858.3281,569.1531 L857.3438,571.0281 Q856.5625,570.6219 855.9844,570.45 Q855.4063,570.2781 854.6719,570.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="875.25" y="579.74">MsgBox
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="786" x2="980" y1="590.7" y2="590.7"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="786" x2="980" y1="598.7" y2="598.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="144"
+                  x="791" y="616.9799">-«Create» MsgBox()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="168" x="791" y="635.4598">+void success(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="120" x="791" y="653.9398">+void success()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="160" x="791" y="672.4197">+void failed(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="112" x="791" y="690.8996">+void failed()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="184" x="791" y="709.3795">+void failed(Exception)
+            </text>
+        </g><!--MD5=[616ce2e09a8d72954fb5336ecf6079d7]
+class moe.qie2035.market.data.User-->
+        <g id="elem_moe.qie2035.market.data.User">
+            <rect codeLine="251" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.data.User" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="196" x="9317" y="549.7"/>
+            <ellipse cx="9394.75" cy="565.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M9394.6719,561.2781 Q9393.8594,561.2781 9393.2031,561.575 Q9392.5625,561.8562 9392.0938,562.4187 Q9391.6406,562.9656 9391.375,563.7781 Q9391.1094,564.575 9391.1094,565.6062 Q9391.1094,566.6844 9391.3281,567.5125 Q9391.5625,568.325 9392,568.8562 Q9392.4531,569.3875 9393.1094,569.6687 Q9393.7656,569.95 9394.6719,569.95 Q9395.3906,569.95 9396.0313,569.825 Q9396.6719,569.6844 9397.7344,569.3719 L9397.7344,571.3719 Q9397.1719,571.5906 9396.8281,571.6844 Q9396.5,571.7625 9396.125,571.8406 Q9395.7656,571.9031 9395.3438,571.9344 Q9394.9219,571.95 9394.4219,571.95 Q9392.9844,571.95 9391.9063,571.4969 Q9390.8438,571.0281 9390.1406,570.1844 Q9389.4531,569.325 9389.1094,568.1531 Q9388.7813,566.9812 9388.7813,565.5906 Q9388.7813,564.2156 9389.1719,563.0594 Q9389.5625,561.9031 9390.2969,561.0594 Q9391.0469,560.2156 9392.1406,559.7469 Q9393.25,559.2625 9394.6719,559.2625 Q9395.625,559.2625 9396.4688,559.4656 Q9397.3125,559.6531 9398.3281,560.1531 L9397.3438,562.0281 Q9396.5625,561.6219 9395.9844,561.45 Q9395.4063,561.2781 9394.6719,561.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="32"
+                  x="9415.25" y="570.74">User
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9318" x2="9512" y1="581.7" y2="581.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="9323" y="599.9799">-String name
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="9323" y="618.4598">-String password
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="128"
+                  x="9323" y="636.9398">-String userType
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9318" x2="9512" y1="645.1397" y2="645.1397"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="9323" y="663.4197">+User findOne(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="160"
+                  x="9323" y="681.8996">+void delOne(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="152"
+                  x="9323" y="700.3795">+Type getUserType()
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="9323" y="718.8594">+void setUserType(Type)
+            </text>
+        </g><!--MD5=[10995c738bf79994e4a0e1278adea9ce]
+class moe.qie2035.market.data.User.Type-->
+        <g id="elem_moe.qie2035.market.data.User.Type">
+            <rect codeLine="260" fill="#F1F1F1" height="158.8795" id="moe.qie2035.market.data.User.Type" rx="2.5"
+                  ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="9325" y="136.2"/>
+            <ellipse cx="9378.75" cy="152.2" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M9381.8906,158.7 L9374.9063,158.7 L9374.9063,146.0125 L9381.8906,146.0125 L9381.8906,148.0125 L9377.1406,148.0125 L9377.1406,150.95 L9381.5781,150.95 L9381.5781,152.95 L9377.1406,152.95 L9377.1406,156.7 L9381.8906,156.7 L9381.8906,158.7 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="72"
+                  x="9399.25" y="157.24">User.Type
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9326" x2="9512" y1="168.2" y2="168.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="9331" y="186.4799">+GUEST
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="56"
+                  x="9331" y="204.9598">+NORMAL
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="48"
+                  x="9331" y="223.4398">+ADMIN
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="9331" y="241.9197">-String name
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9326" x2="9512" y1="250.1197" y2="250.1197"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="9331" y="268.3996">~«Create» Type(String)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="144" x="9331" y="286.8795">+Type from(String)
+            </text>
+        </g><!--MD5=[6f2288a6e85fe5d59b6744a145052f17]
+class moe.qie2035.market.data.IDataOne-->
+        <g id="elem_moe.qie2035.market.data.IDataOne">
+            <rect codeLine="299" fill="#F1F1F1" height="84.9598" id="moe.qie2035.market.data.IDataOne" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="132" x="9158" y="173.2"/>
+            <ellipse cx="9189.2" cy="189.2" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M9191.4656,195.7 L9186.3875,195.7 L9186.3875,194.2312 L9187.8094,193.9031 L9187.8094,184.8094 L9186.3875,184.4812 L9186.3875,183.0125 L9191.4656,183.0125 L9191.4656,184.4812 L9190.0438,184.8094 L9190.0438,193.9031 L9191.4656,194.2312 L9191.4656,195.7 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" font-style="italic" lengthAdjust="spacing"
+                  textLength="64" x="9206.8" y="194.24">IDataOne
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9159" x2="9289" y1="205.2" y2="205.2"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9159" x2="9289" y1="213.2" y2="213.2"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="104"
+                  x="9164" y="231.4799">~T findOne(I)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="120"
+                  x="9164" y="249.9598">~void delOne(I)
+            </text>
+        </g><!--MD5=[3b31030ca9b19598270bc4c51b966f1a]
+class moe.qie2035.market.data.Msg-->
+        <g id="elem_moe.qie2035.market.data.Msg">
+            <rect codeLine="330" fill="#F1F1F1" height="66.4799" id="moe.qie2035.market.data.Msg" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="100" x="9023" y="182.7"/>
+            <ellipse cx="9057.8" cy="198.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M9057.7219,194.2781 Q9056.9094,194.2781 9056.2531,194.575 Q9055.6125,194.8562 9055.1438,195.4187 Q9054.6906,195.9656 9054.425,196.7781 Q9054.1594,197.575 9054.1594,198.6062 Q9054.1594,199.6844 9054.3781,200.5125 Q9054.6125,201.325 9055.05,201.8562 Q9055.5031,202.3875 9056.1594,202.6687 Q9056.8156,202.95 9057.7219,202.95 Q9058.4406,202.95 9059.0813,202.825 Q9059.7219,202.6844 9060.7844,202.3719 L9060.7844,204.3719 Q9060.2219,204.5906 9059.8781,204.6844 Q9059.55,204.7625 9059.175,204.8406 Q9058.8156,204.9031 9058.3938,204.9344 Q9057.9719,204.95 9057.4719,204.95 Q9056.0344,204.95 9054.9563,204.4969 Q9053.8938,204.0281 9053.1906,203.1844 Q9052.5031,202.325 9052.1594,201.1531 Q9051.8313,199.9812 9051.8313,198.5906 Q9051.8313,197.2156 9052.2219,196.0594 Q9052.6125,194.9031 9053.3469,194.0594 Q9054.0969,193.2156 9055.1906,192.7469 Q9056.3,192.2625 9057.7219,192.2625 Q9058.675,192.2625 9059.5188,192.4656 Q9060.3625,192.6531 9061.3781,193.1531 L9060.3938,195.0281 Q9059.6125,194.6219 9059.0344,194.45 Q9058.4563,194.2781 9057.7219,194.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="24"
+                  x="9076.2" y="203.74">Msg
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9024" x2="9122" y1="214.7" y2="214.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="9029" y="232.9799">~String msg
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9024" x2="9122" y1="241.1799" y2="241.1799"/>
+        </g><!--MD5=[3407582a40abdeb23edfb253d364cf62]
+class moe.qie2035.market.data.Goods-->
+        <g id="elem_moe.qie2035.market.data.Goods">
+            <rect codeLine="354" fill="#F1F1F1" height="177.3594" id="moe.qie2035.market.data.Goods" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="196" x="9086" y="549.7"/>
+            <ellipse cx="9159.75" cy="565.7" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M9159.6719,561.2781 Q9158.8594,561.2781 9158.2031,561.575 Q9157.5625,561.8562 9157.0938,562.4187 Q9156.6406,562.9656 9156.375,563.7781 Q9156.1094,564.575 9156.1094,565.6062 Q9156.1094,566.6844 9156.3281,567.5125 Q9156.5625,568.325 9157,568.8562 Q9157.4531,569.3875 9158.1094,569.6687 Q9158.7656,569.95 9159.6719,569.95 Q9160.3906,569.95 9161.0313,569.825 Q9161.6719,569.6844 9162.7344,569.3719 L9162.7344,571.3719 Q9162.1719,571.5906 9161.8281,571.6844 Q9161.5,571.7625 9161.125,571.8406 Q9160.7656,571.9031 9160.3438,571.9344 Q9159.9219,571.95 9159.4219,571.95 Q9157.9844,571.95 9156.9063,571.4969 Q9155.8438,571.0281 9155.1406,570.1844 Q9154.4531,569.325 9154.1094,568.1531 Q9153.7813,566.9812 9153.7813,565.5906 Q9153.7813,564.2156 9154.1719,563.0594 Q9154.5625,561.9031 9155.2969,561.0594 Q9156.0469,560.2156 9157.1406,559.7469 Q9158.25,559.2625 9159.6719,559.2625 Q9160.625,559.2625 9161.4688,559.4656 Q9162.3125,559.6531 9163.3281,560.1531 L9162.3438,562.0281 Q9161.5625,561.6219 9160.9844,561.45 Q9160.4063,561.2781 9159.6719,561.2781 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="40"
+                  x="9180.25" y="570.74">Goods
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9087" x2="9281" y1="581.7" y2="581.7"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="88"
+                  x="9092" y="599.9799">-Integer id
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="96"
+                  x="9092" y="618.4598">-String name
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="9092" y="636.9398">-Double prince
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="9092" y="655.4197">-Integer count
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="112"
+                  x="9092" y="673.8996">-String remark
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="9087" x2="9281" y1="682.0996" y2="682.0996"/>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="184"
+                  x="9092" y="700.3795">+Goods findOne(Integer)
+            </text>
+            <text fill="#000000" font-family="JetBrains Mono" font-size="14" lengthAdjust="spacing" textLength="168"
+                  x="9092" y="718.8594">+void delOne(Integer)
+            </text>
+        </g><!--MD5=[23b2ddda594568197ee42fa2676177de]
+reverse link moe.qie2035.market.ui.event.AbsTableEvent to moe.qie2035.market.ui.event.UserEvent-->
+        <g id="link_moe.qie2035.market.ui.event.AbsTableEvent_moe.qie2035.market.ui.event.UserEvent">
+            <path codeLine="395" d="M3429.27,771.87 C3403.88,812.58 3377.19,855.38 3356.43,888.67 " fill="none"
+                  id="moe.qie2035.market.ui.event.AbsTableEvent-backto-moe.qie2035.market.ui.event.UserEvent"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="3423.34,768.15,3439.86,754.89,3435.22,775.56,3423.34,768.15"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[d16db4d8b4abf9e1472cb0885b7ee1e8]
+reverse link moe.qie2035.market.ui.event.AbsTableEvent to moe.qie2035.market.ui.event.GoodsEvent-->
+        <g id="link_moe.qie2035.market.ui.event.AbsTableEvent_moe.qie2035.market.ui.event.GoodsEvent">
+            <path codeLine="396" d="M3595.16,771.87 C3620.68,812.58 3647.5,855.38 3668.37,888.67 " fill="none"
+                  id="moe.qie2035.market.ui.event.AbsTableEvent-backto-moe.qie2035.market.ui.event.GoodsEvent"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="3589.21,775.55,3584.51,754.89,3601.07,768.11,3589.21,775.55"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[7ac1b1b74ef901ea0614210b29adcaa5]
+reverse link moe.qie2035.market.client.AbsClient to moe.qie2035.market.client.GoodsClient-->
+        <g id="link_moe.qie2035.market.client.AbsClient_moe.qie2035.market.client.GoodsClient">
+            <path codeLine="397" d="M5842.89,368.07 C5799.49,436.41 5750.36,513.79 5715.95,567.98 " fill="none"
+                  id="moe.qie2035.market.client.AbsClient-backto-moe.qie2035.market.client.GoodsClient"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="5837.16,364.04,5853.79,350.9,5848.97,371.54,5837.16,364.04"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[0b60eef8f686e41ceaac3651e3cda9fe]
+reverse link moe.qie2035.market.client.AbsClient to moe.qie2035.market.client.LoginClient-->
+        <g id="link_moe.qie2035.market.client.AbsClient_moe.qie2035.market.client.LoginClient">
+            <path codeLine="398" d="M5939,371.11 C5939,438.7 5939,514.59 5939,567.98 " fill="none"
+                  id="moe.qie2035.market.client.AbsClient-backto-moe.qie2035.market.client.LoginClient"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="5932,370.9,5939,350.9,5946,370.9,5932,370.9"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[85f4566567e13f86cb339b7a41da7594]
+reverse link moe.qie2035.market.ui.dialog.AbsDialog to moe.qie2035.market.ui.dialog.GoodsDialog-->
+        <g id="link_moe.qie2035.market.ui.dialog.AbsDialog_moe.qie2035.market.ui.dialog.GoodsDialog">
+            <path codeLine="399"
+                  d="M2087.93,334.51 C2022.53,368.96 1952.52,408.06 1890,447.7 C1858.79,467.48 1826.52,490.01 1795.92,512.46 "
+                  fill="none"
+                  id="moe.qie2035.market.ui.dialog.AbsDialog-backto-moe.qie2035.market.ui.dialog.GoodsDialog"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="2084.82,328.23,2105.79,325.15,2091.32,340.63,2084.82,328.23"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[a2d084057cb71d61c765dfb5e2e12e56]
+reverse link moe.qie2035.market.ui.dialog.AbsDialog to moe.qie2035.market.ui.dialog.UserDialog-->
+        <g id="link_moe.qie2035.market.ui.dialog.AbsDialog_moe.qie2035.market.ui.dialog.UserDialog">
+            <path codeLine="400" d="M2247.16,387.51 C2224.16,436.12 2199.78,487.64 2179.17,531.18 " fill="none"
+                  id="moe.qie2035.market.ui.dialog.AbsDialog-backto-moe.qie2035.market.ui.dialog.UserDialog"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="2240.85,384.49,2255.73,369.4,2253.51,390.47,2240.85,384.49"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[d4a0b3f3c0f9ebe1ec3f30855b4aa779]
+reverse link moe.qie2035.market.server.api.JsonAPI to moe.qie2035.market.server.api.UserAPI-->
+        <g id="link_moe.qie2035.market.server.api.JsonAPI_moe.qie2035.market.server.api.UserAPI">
+            <path codeLine="401" d="M4578.16,335.26 C4487.19,406.76 4373.84,495.85 4293.91,558.67 " fill="none"
+                  id="moe.qie2035.market.server.api.JsonAPI-backto-moe.qie2035.market.server.api.UserAPI"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="4573.95,329.67,4594,322.81,4582.6,340.67,4573.95,329.67"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[06ef7949ba4bc082e37c6a988af522d5]
+reverse link moe.qie2035.market.ui.dialog.AbsDialog to moe.qie2035.market.ui.dialog.ChooseDialog-->
+        <g id="link_moe.qie2035.market.ui.dialog.AbsDialog_moe.qie2035.market.ui.dialog.ChooseDialog">
+            <path codeLine="402" d="M2409.23,387.48 C2429.1,429.27 2450.01,473.23 2468.65,512.41 " fill="none"
+                  id="moe.qie2035.market.ui.dialog.AbsDialog-backto-moe.qie2035.market.ui.dialog.ChooseDialog"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="2402.9,390.47,2400.63,369.4,2415.54,384.46,2402.9,390.47"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[7e57b9e774c12d3adb4fea8eb86ff474]
+reverse link moe.qie2035.market.Config to moe.qie2035.market.Config.Server-->
+        <g id="link_moe.qie2035.market.Config_moe.qie2035.market.Config.Server">
+            <path codeLine="403" d="M7064.51,336.66 C7026.94,419.38 6978.91,525.12 6950.99,586.6 " fill="none"
+                  id="moe.qie2035.market.Config-backto-moe.qie2035.market.Config.Server"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <ellipse cx="7067.493" cy="330.0945" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7064.186" x2="7070.8" y1="337.379" y2="322.81"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7060.2085" x2="7074.7775" y1="326.7875" y2="333.4015"/>
+        </g><!--MD5=[78d43ed846f542035b6a8f6dd6c8da9e]
+reverse link moe.qie2035.market.Config to moe.qie2035.market.Config.Client-->
+        <g id="link_moe.qie2035.market.Config_moe.qie2035.market.Config.Client">
+            <path codeLine="404" d="M7119,337.94 C7119,420.47 7119,525.44 7119,586.6 " fill="none"
+                  id="moe.qie2035.market.Config-backto-moe.qie2035.market.Config.Client"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <ellipse cx="7119" cy="330.81" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7119" x2="7119" y1="338.81" y2="322.81"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7111" x2="7127" y1="330.81" y2="330.81"/>
+        </g><!--MD5=[ec0b07f21d578827e9e0d6e28f72b686]
+reverse link moe.qie2035.market.Config to moe.qie2035.market.Config.Database-->
+        <g id="link_moe.qie2035.market.Config_moe.qie2035.market.Config.Database">
+            <path codeLine="405"
+                  d="M7068.64,335.67 C7056.3,355.06 7041.49,373.44 7024,387.7 C6955.04,443.93 6903.95,394 6833,447.7 C6804,469.65 6779.77,500.48 6760.65,530.9 "
+                  fill="none" id="moe.qie2035.market.Config-backto-moe.qie2035.market.Config.Database"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <ellipse cx="7072.2695" cy="329.6612" fill="#FFFFFF" rx="8" ry="8"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7068.1389" x2="7076.4" y1="336.5124" y2="322.81"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="7065.4183" x2="7079.1207" y1="325.5306" y2="333.7917"/>
+        </g><!--MD5=[1cf6c024393e1420eebf2c0cca0b1571]
+reverse link moe.qie2035.market.ui.frame.AbsFrame to moe.qie2035.market.ui.frame.TableFrame-->
+        <g id="link_moe.qie2035.market.ui.frame.AbsFrame_moe.qie2035.market.ui.frame.TableFrame">
+            <path codeLine="406" d="M8596.92,285.88 C8564.82,355.09 8515.17,462.16 8479.12,539.91 " fill="none"
+                  id="moe.qie2035.market.ui.frame.AbsFrame-backto-moe.qie2035.market.ui.frame.TableFrame"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="8590.71,282.62,8605.48,267.42,8603.41,288.51,8590.71,282.62"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[72783f810ba0e5515c8c73c585a93020]
+reverse link moe.qie2035.market.ui.dialog.AbsDialog to moe.qie2035.market.ui.dialog.CfgDialog-->
+        <g id="link_moe.qie2035.market.ui.dialog.AbsDialog_moe.qie2035.market.ui.dialog.CfgDialog">
+            <path codeLine="407"
+                  d="M2567.23,362.52 C2608.3,389.71 2649.97,418.72 2688,447.7 C2693.58,451.95 2699.19,456.32 2704.82,460.77 "
+                  fill="none" id="moe.qie2035.market.ui.dialog.AbsDialog-backto-moe.qie2035.market.ui.dialog.CfgDialog"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="2563.16,368.22,2550.3,351.38,2570.86,356.52,2563.16,368.22"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[8b912a6d606379e66f90390e7acc8066]
+reverse link moe.qie2035.market.server.api.JsonAPI to moe.qie2035.market.server.api.GoodsAPI-->
+        <g id="link_moe.qie2035.market.server.api.JsonAPI_moe.qie2035.market.server.api.GoodsAPI">
+            <path codeLine="408" d="M4729,343.09 C4729,413.17 4729,498.12 4729,558.67 " fill="none"
+                  id="moe.qie2035.market.server.api.JsonAPI-backto-moe.qie2035.market.server.api.GoodsAPI"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="4722,342.81,4729,322.81,4736,342.81,4722,342.81"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[d5dcdba2b7659edf563476d064ce0a35]
+reverse link moe.qie2035.market.data.IDataOne to moe.qie2035.market.data.User-->
+        <g id="link_moe.qie2035.market.data.IDataOne_moe.qie2035.market.data.User">
+            <path codeLine="409" d="M9251.35,276.92 C9283.79,348.32 9338.11,467.93 9375.2,549.59 " fill="none"
+                  id="moe.qie2035.market.data.IDataOne-backto-moe.qie2035.market.data.User"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="9244.91,279.66,9243.01,258.56,9257.66,273.87,9244.91,279.66"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[38aeda7645f7c257f6ac369517e71c97]
+reverse link moe.qie2035.market.ui.model.AbsModel to moe.qie2035.market.ui.model.GoodsModel-->
+        <g id="link_moe.qie2035.market.ui.model.AbsModel_moe.qie2035.market.ui.model.GoodsModel">
+            <path codeLine="410" d="M7506.99,314.2 C7481.45,385.31 7447.15,480.85 7422.48,549.55 " fill="none"
+                  id="moe.qie2035.market.ui.model.AbsModel-backto-moe.qie2035.market.ui.model.GoodsModel"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="7500.43,311.76,7513.78,295.3,7513.6,316.49,7500.43,311.76"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[e55bb9d7ac2166e67017ded0f22da3b5]
+reverse link moe.qie2035.market.ui.event.ITableEvent to moe.qie2035.market.ui.event.AbsTableEvent-->
+        <g id="link_moe.qie2035.market.ui.event.ITableEvent_moe.qie2035.market.ui.event.AbsTableEvent">
+            <path codeLine="411" d="M3512,315.5 C3512,377.23 3512,457.01 3512,521.67 " fill="none"
+                  id="moe.qie2035.market.ui.event.ITableEvent-backto-moe.qie2035.market.ui.event.AbsTableEvent"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="3505,315.3,3512,295.3,3519,315.3,3505,315.3"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[8650ebacf27ee0c7f4aef387a808bc19]
+reverse link moe.qie2035.market.ui.model.AbsModel to moe.qie2035.market.ui.model.UserModel-->
+        <g id="link_moe.qie2035.market.ui.model.AbsModel_moe.qie2035.market.ui.model.UserModel">
+            <path codeLine="412" d="M7577.24,314.2 C7602.95,385.31 7637.48,480.85 7662.32,549.55 " fill="none"
+                  id="moe.qie2035.market.ui.model.AbsModel-backto-moe.qie2035.market.ui.model.UserModel"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="7570.63,316.49,7570.41,295.3,7583.79,311.73,7570.63,316.49"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[bfa36f02844a48aaf018a02b5ad1ebc6]
+reverse link moe.qie2035.market.data.IDataOne to moe.qie2035.market.data.Goods-->
+        <g id="link_moe.qie2035.market.data.IDataOne_moe.qie2035.market.data.Goods">
+            <path codeLine="413" d="M9218.1,278.75 C9211.29,350.36 9200.04,468.62 9192.33,549.59 " fill="none"
+                  id="moe.qie2035.market.data.IDataOne-backto-moe.qie2035.market.data.Goods"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="none" points="9211.16,277.8,9220.02,258.56,9225.09,279.13,9211.16,277.8"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[c3d87eb48556746ed0f74629f646074a]
+reverse link moe.qie2035.market.ui.frame.AbsFrame to moe.qie2035.market.ui.frame.LoginFrame-->
+        <g id="link_moe.qie2035.market.ui.frame.AbsFrame_moe.qie2035.market.ui.frame.LoginFrame">
+            <path codeLine="414" d="M8661.24,285.87 C8687.48,342.17 8725.41,423.54 8758.16,493.79 " fill="none"
+                  id="moe.qie2035.market.ui.frame.AbsFrame-backto-moe.qie2035.market.ui.frame.LoginFrame"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="8654.75,288.51,8652.64,267.42,8667.44,282.59,8654.75,288.51"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[38cc08e6e01983d4ae436063cb8bccb3]
+reverse link moe.qie2035.market.server.api.JsonAPI to moe.qie2035.market.server.api.LoginAPI-->
+        <g id="link_moe.qie2035.market.server.api.JsonAPI_moe.qie2035.market.server.api.LoginAPI">
+            <path codeLine="415" d="M4877.74,335.38 C4981.65,418.29 5115.14,524.8 5192.58,586.6 " fill="none"
+                  id="moe.qie2035.market.server.api.JsonAPI-backto-moe.qie2035.market.server.api.LoginAPI"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="4873.25,340.76,4861.98,322.81,4881.98,329.81,4873.25,340.76"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[f94a5091b95aaecc87aa234e71026c11]
+reverse link moe.qie2035.market.client.AbsClient to moe.qie2035.market.client.UserClient-->
+        <g id="link_moe.qie2035.market.client.AbsClient_moe.qie2035.market.client.UserClient">
+            <path codeLine="416" d="M6033.67,368.07 C6076.42,436.41 6124.81,513.79 6158.7,567.98 " fill="none"
+                  id="moe.qie2035.market.client.AbsClient-backto-moe.qie2035.market.client.UserClient"
+                  style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="6027.61,371.57,6022.94,350.9,6039.48,364.15,6027.61,371.57"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+        </g><!--MD5=[09056ad7dd8e7e1c07d953a793e0c3cc]
+link moe.qie2035.market.Config.Database.Type to moe.qie2035.market.Config.Database-->
+        <g id="link_moe.qie2035.market.Config.Database.Type_moe.qie2035.market.Config.Database">
+            <path codeLine="417" d="M6851.29,295.3 C6825.37,357.59 6788.71,445.67 6759.09,516.83 " fill="none"
+                  id="moe.qie2035.market.Config.Database.Type-to-moe.qie2035.market.Config.Database"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <ellipse cx="6756.3421" cy="523.4333" fill="#FFFFFF" rx="8" ry="8"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="6759.4141" x2="6753.27" y1="516.0467" y2="530.82"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="6763.7287" x2="6748.9554" y1="526.5054" y2="520.3613"/>
+        </g><!--MD5=[70b2fb2ef43895642ebc512794425b8a]
+link moe.qie2035.market.data.User.Type to moe.qie2035.market.data.User-->
+        <g id="link_moe.qie2035.market.data.User.Type_moe.qie2035.market.data.User">
+            <path codeLine="418" d="M9418.25,295.3 C9417.61,362.76 9416.68,460.49 9415.98,534.2 " fill="none"
+                  id="moe.qie2035.market.data.User.Type-to-moe.qie2035.market.data.User"
+                  style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <ellipse cx="9415.9062" cy="541.5503" fill="#FFFFFF" rx="8" ry="8"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="9415.9824" x2="9415.83" y1="533.5507" y2="549.55"/>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="9423.9058" x2="9407.9065" y1="541.6265" y2="541.4742"/>
+        </g><!--MD5=[bf83b8f2b8a2bdc22733b4e95c86db74]
+@startuml
+skinparam defaultFontName JetBrains Mono
+skinparam classAttributeIconSize 0
+class moe.qie2035.market.server.Server {
+- {static} Server server
+- <<Create>> Server()
++ {static} Server get()
++ {static} Server refresh()
++ void addMappings()
++ Response serve(IHTTPSession)
+}
+abstract class moe.qie2035.market.ui.dialog.AbsDialog {
+# String[] label
+# T data
+# boolean isNew
+# AbsClient<T,P> client
+# JButton okBtn
+# JButton cancelBtn
+# Box fieldBox
++ <<Create>> AbsDialog()
++ <<Create>> AbsDialog(T,String[],boolean,AbsClient<T,P>)
+- void baseInit()
+# void setDataTitle(String)
+# {abstract}void init()
+# {abstract}void bind()
+# void dataInit()
+}
+class moe.qie2035.market.ui.event.UserEvent {
++ <<Create>> UserEvent(UserClient,UserModel)
++ void newClick()
++ void modClick(int)
++ void delClick(int)
+}
+class moe.qie2035.market.ui.event.GoodsEvent {
++ <<Create>> GoodsEvent(GoodsClient,GoodsModel)
++ void newClick()
++ void modClick(int)
++ void delClick(int)
+}
+class moe.qie2035.market.server.api.JsonAPI {
++ {static} Response response(IStatus,Object)
++ {static} Response response(CNStatus)
++ String getPostBody(IHTTPSession)
++ String getPutBody(IHTTPSession)
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
++ Response other(String,UriResource,Map<String,String>,NanoHTTPD.IHTTPSession)
+}
+class moe.qie2035.market.client.GoodsClient {
++ <<Create>> GoodsClient(User)
++ List<Goods> get(String,int)
++ Msg post(Goods)
++ Msg put(Goods,Integer)
++ Msg delete(Integer)
+}
+class moe.qie2035.market.client.LoginClient {
++ <<Create>> LoginClient()
++ List<User> get(String,int)
++ Msg post(User)
++ Msg put(User,String)
++ Msg delete(String)
+}
+class moe.qie2035.market.ui.dialog.GoodsDialog {
+- Integer oldId
+- JTextField nameField
+- JTextField princeField
+- JSpinner idSpinner
+- JSpinner countSpinner
+- JTextField remarkField
++ <<Create>> GoodsDialog(Goods,String[],boolean,GoodsClient)
+# void init()
+# void bind()
+- void onOk()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.dialog.UserDialog {
+- JTextField usernameField
+- JPasswordField passwordField
+- JComboBox<String> typeComboBox
+- String oldName
++ <<Create>> UserDialog(User,String[],boolean,UserClient)
+# void init()
+# void bind()
+- void onOk()
++ void actionPerformed(ActionEvent)
+}
+interface moe.qie2035.market.ui.event.ITableEvent {
+~ void preClick()
+~ void nextClick()
+~ void newClick()
+~ void modClick(int)
+~ void delClick(int)
+~ void searchClick(String)
+}
+abstract class moe.qie2035.market.client.AbsClient {
+# User user
+# <<Create>> AbsClient(User)
+# String request(String,HttpMethod,T)
+# Msg requestMsg(String,HttpMethod,T)
+# String genPath(String,P,String,int)
+# String genPath(String,P)
+# String genPath(String,String,int)
++ List<T> get(int)
++ {abstract}List<T> get(String,int)
++ {abstract}Msg post(T)
++ {abstract}Msg put(T,P)
++ {abstract}Msg delete(P)
+}
+class moe.qie2035.market.server.api.UserAPI {
+- {static} User.Type TYPE
+- {static} String NAME
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.ui.dialog.ChooseDialog {
++ {static} String USER
++ {static} String GOODS
+- {static} ChooseDialog dialog
+- JList<String> list
+- JButton okBtn
+- User user
+- <<Create>> ChooseDialog()
++ {static} void create(User)
+# void init()
+# void bind()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.Config {
+- {static} File FILE
+- {static} Config config
+- Server server
+- Client client
+- Database database
+- <<Create>> Config()
++ {static} Config get()
+- {static} void load()
++ void save()
+}
+class moe.qie2035.market.Config.Server {
+- int port
+- int threads
+- <<Create>> Server()
+}
+class moe.qie2035.market.Config.Client {
+- String host
+- int port
+- <<Create>> Client()
+}
+class moe.qie2035.market.Config.Database {
+- Type type
+- String name
+- String host
+- int port
+- String username
+- String password
+- <<Create>> Database()
++ String decPassword()
++ void encPassword(String)
+}
+enum moe.qie2035.market.Config.Database.Type {
++  H2
++  MYSQL
+- String name
+- String drvName
+~ <<Create>> Type(String,String)
++ String getDrvName()
+}
+abstract class moe.qie2035.market.ui.model.AbsModel {
++ int getRowCount()
++ String getColumnName(int)
++ int getColumnCount()
++ {abstract}String[] getHeader()
++ {abstract}void setData(List<T>)
++ {abstract}T getOne(int)
+}
+class moe.qie2035.market.ui.OptMenu {
++ {static} String START
++ {static} String ABOUT
+- {static} OptMenu optMenu
+- {static} JMenuBar menuBar
+- JMenuItem srvItem
+- <<Create>> OptMenu()
++ {static} JMenuBar getMenuBar()
+- void init()
+- void bind()
+- void onSrv()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.frame.TableFrame {
+- ITableEvent tableEvent
+- JButton preBtn
+- JTextField searchField
+- JTable table
++ <<Create>> TableFrame(String,AbsModel<?>,ITableEvent)
+# void init()
+# void bind()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.dialog.CfgDialog {
+- {static} CfgDialog dialog
+- JButton saveBtn
+- JTabbedPane tabPanel
+- JTextField dbNameField
+- JComboBox<Config.Database.Type> dbTypeComboBox
+- JSpinner dbPortSpinner
+- JPasswordField dbPasswordField
+- <<Create>> CfgDialog()
++ {static} void create()
+- {static} int check(Object)
+- {static} JSpinner.NumberEditor getEditor(JSpinner)
+# void init()
+- void initDb()
+- void initSrv()
+- void initClient()
+# void bind()
+- void onSave()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.server.api.GoodsAPI {
+- {static} User.Type TYPE
+- {static} String ID
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.utils.SQL {
+- {static} SuidRich suid
+- <<Create>> SQL()
++ {static} SuidRich get()
++ {static} void refresh()
+- {static} void initH2()
+- {static} String genUrl(Config.Database)
++ {static} ConditionImpl getCondition(NanoHTTPD.IHTTPSession)
+}
+abstract class moe.qie2035.market.ui.frame.AbsFrame {
++ <<Create>> AbsFrame()
+# {abstract}void init()
+# {abstract}void bind()
+}
+class moe.qie2035.market.utils.Crypto {
++ {static} String KEY
+- {static} String TRANSFORMATION
+- <<Create>> Crypto()
++ {static} String enc(String,String)
++ {static} String enc(String)
++ {static} String dec(String,String)
++ {static} String dec(String)
+}
+class moe.qie2035.market.data.User {
+- String name
+- String password
+- String userType
++ User findOne(String)
++ void delOne(String)
++ Type getUserType()
++ void setUserType(Type)
+}
+enum moe.qie2035.market.data.User.Type {
++  GUEST
++  NORMAL
++  ADMIN
+- String name
+~ <<Create>> Type(String)
++ {static} Type from(String)
+}
+class moe.qie2035.market.server.BoundRunner {
+- ExecutorService executorService
+- List<NanoHTTPD.ClientHandler> running
++ <<Create>> BoundRunner(int)
++ void closeAll()
++ void closed(NanoHTTPD.ClientHandler)
++ void exec(NanoHTTPD.ClientHandler)
+}
+class moe.qie2035.market.utils.MsgBox {
+- <<Create>> MsgBox()
++ {static} void success(String)
++ {static} void success()
++ {static} void failed(String)
++ {static} void failed()
++ {static} void failed(Exception)
+}
+enum moe.qie2035.market.server.CNStatus {
++  OK
++  CREATED
++  BAD_REQUEST
++  UNAUTHORIZED
++  FORBIDDEN
++  NOT_FOUND
++  METHOD_NOT_ALLOWED
++  INTERNAL_ERROR
+- int code
+- String msg
+~ <<Create>> CNStatus(int,String)
++ String getDescription()
++ int getRequestStatus()
+}
+interface moe.qie2035.market.data.IDataOne {
+~ T findOne(I)
+~ void delOne(I)
+}
+class moe.qie2035.market.Const {
++ {static} String SUCCESS
++ {static} String FAILED
++ {static} int GAP
++ {static} int GAP2
++ {static} int COL
++ {static} String LOGIN
++ {static} String USER
++ {static} String GOODS
++ {static} String SEARCH
++ {static} String PAGE
++ {static} String AUTH
++ {static} int PAGE_SIZE
++ {static} String MIME
++ {static} String OK
++ {static} String CANCEL
+- <<Create>> Const()
+}
+class moe.qie2035.market.ui.model.GoodsModel {
+- {static} String[] header
+- List<Goods> goodsList
++ <<Create>> GoodsModel(List<Goods>)
++ Object getValueAt(int,int)
++ String[] getHeader()
++ void setData(List<Goods>)
++ Goods getOne(int)
+}
+class moe.qie2035.market.data.Msg {
+~ String msg
+}
+abstract class moe.qie2035.market.ui.event.AbsTableEvent {
+# int page
+~ C client
+~ M model
+- String search
++ <<Create>> AbsTableEvent(C,M)
++ void preClick()
++ void searchClick(String)
+# void update()
+# T check(int)
++ void nextClick()
+}
+class moe.qie2035.market.ui.model.UserModel {
+- {static} String[] header
+- List<User> userList
++ <<Create>> UserModel(List<User>)
++ Object getValueAt(int,int)
++ String[] getHeader()
++ void setData(List<User>)
++ User getOne(int)
+}
+class moe.qie2035.market.data.Goods {
+- Integer id
+- String name
+- Double prince
+- Integer count
+- String remark
++ Goods findOne(Integer)
++ void delOne(Integer)
+}
+class moe.qie2035.market.ui.frame.LoginFrame {
+- {static} LoginFrame frame
+- JTextField usernameField
+- JPasswordField passwordField
+- JButton loginBtn
+- Box labelBox
+- <<Create>> LoginFrame()
++ {static} void create()
+# void init()
+- void initComs()
+- void initLayout()
+# void bind()
+- void onLogin()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.Main {
++ {static} void main(String[])
+}
+class moe.qie2035.market.server.api.LoginAPI {
++ {static} boolean check(String,User.Type)
++ {static} boolean check(IHTTPSession,User.Type)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.client.UserClient {
++ <<Create>> UserClient(User)
++ List<User> get(String,int)
++ Msg post(User)
++ Msg put(User,String)
++ Msg delete(String)
+}
+
+
+moe.qie2035.market.ui.event.AbsTableEvent <|- - moe.qie2035.market.ui.event.UserEvent
+moe.qie2035.market.ui.event.AbsTableEvent <|- - moe.qie2035.market.ui.event.GoodsEvent
+moe.qie2035.market.client.AbsClient <|- - moe.qie2035.market.client.GoodsClient
+moe.qie2035.market.client.AbsClient <|- - moe.qie2035.market.client.LoginClient
+moe.qie2035.market.ui.dialog.AbsDialog <|- - moe.qie2035.market.ui.dialog.GoodsDialog
+moe.qie2035.market.ui.dialog.AbsDialog <|- - moe.qie2035.market.ui.dialog.UserDialog
+moe.qie2035.market.server.api.JsonAPI <|- - moe.qie2035.market.server.api.UserAPI
+moe.qie2035.market.ui.dialog.AbsDialog <|- - moe.qie2035.market.ui.dialog.ChooseDialog
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Server
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Client
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Database
+moe.qie2035.market.ui.frame.AbsFrame <|- - moe.qie2035.market.ui.frame.TableFrame
+moe.qie2035.market.ui.dialog.AbsDialog <|- - moe.qie2035.market.ui.dialog.CfgDialog
+moe.qie2035.market.server.api.JsonAPI <|- - moe.qie2035.market.server.api.GoodsAPI
+moe.qie2035.market.data.IDataOne <|.. moe.qie2035.market.data.User
+moe.qie2035.market.ui.model.AbsModel <|- - moe.qie2035.market.ui.model.GoodsModel
+moe.qie2035.market.ui.event.ITableEvent <|.. moe.qie2035.market.ui.event.AbsTableEvent
+moe.qie2035.market.ui.model.AbsModel <|- - moe.qie2035.market.ui.model.UserModel
+moe.qie2035.market.data.IDataOne <|.. moe.qie2035.market.data.Goods
+moe.qie2035.market.ui.frame.AbsFrame <|- - moe.qie2035.market.ui.frame.LoginFrame
+moe.qie2035.market.server.api.JsonAPI <|- - moe.qie2035.market.server.api.LoginAPI
+moe.qie2035.market.client.AbsClient <|- - moe.qie2035.market.client.UserClient
+moe.qie2035.market.Config.Database.Type ..+ moe.qie2035.market.Config.Database
+moe.qie2035.market.data.User.Type ..+ moe.qie2035.market.data.User
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 18:55:52 CST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

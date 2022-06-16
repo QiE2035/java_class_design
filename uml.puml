@@ -1,0 +1,420 @@
+@startuml
+class moe.qie2035.market.server.Server {
+- {static} Server server
+- <<Create>> Server()
++ {static} Server get()
++ {static} Server refresh()
++ void addMappings()
++ Response serve(IHTTPSession)
+}
+abstract class moe.qie2035.market.ui.dialog.AbsDialog {
+# String[] label
+# T data
+# boolean isNew
+# AbsClient<T,P> client
+# JButton okBtn
+# JButton cancelBtn
+# Box fieldBox
++ <<Create>> AbsDialog()
++ <<Create>> AbsDialog(T,String[],boolean,AbsClient<T,P>)
+- void baseInit()
+# void setDataTitle(String)
+# {abstract}void init()
+# {abstract}void bind()
+# void dataInit()
+}
+class moe.qie2035.market.ui.event.UserEvent {
++ <<Create>> UserEvent(UserClient,UserModel)
++ void newClick()
++ void modClick(int)
++ void delClick(int)
+}
+class moe.qie2035.market.ui.event.GoodsEvent {
++ <<Create>> GoodsEvent(GoodsClient,GoodsModel)
++ void newClick()
++ void modClick(int)
++ void delClick(int)
+}
+class moe.qie2035.market.server.api.JsonAPI {
++ {static} Response response(IStatus,Object)
++ {static} Response response(CNStatus)
++ String getPostBody(IHTTPSession)
++ String getPutBody(IHTTPSession)
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
++ Response other(String,UriResource,Map<String,String>,NanoHTTPD.IHTTPSession)
+}
+class moe.qie2035.market.client.GoodsClient {
++ <<Create>> GoodsClient(User)
++ List<Goods> get(String,int)
++ Msg post(Goods)
++ Msg put(Goods,Integer)
++ Msg delete(Integer)
+}
+class moe.qie2035.market.client.LoginClient {
++ <<Create>> LoginClient()
++ List<User> get(String,int)
++ Msg post(User)
++ Msg put(User,String)
++ Msg delete(String)
+}
+class moe.qie2035.market.ui.dialog.GoodsDialog {
+- Integer oldId
+- JTextField nameField
+- JTextField princeField
+- JSpinner idSpinner
+- JSpinner countSpinner
+- JTextField remarkField
++ <<Create>> GoodsDialog(Goods,String[],boolean,GoodsClient)
+# void init()
+# void bind()
+- void onOk()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.dialog.UserDialog {
+- JTextField usernameField
+- JPasswordField passwordField
+- JComboBox<String> typeComboBox
+- String oldName
++ <<Create>> UserDialog(User,String[],boolean,UserClient)
+# void init()
+# void bind()
+- void onOk()
++ void actionPerformed(ActionEvent)
+}
+interface moe.qie2035.market.ui.event.ITableEvent {
+~ void preClick()
+~ void nextClick()
+~ void newClick()
+~ void modClick(int)
+~ void delClick(int)
+~ void searchClick(String)
+}
+abstract class moe.qie2035.market.client.AbsClient {
+# User user
+# <<Create>> AbsClient(User)
+# String request(String,HttpMethod,T)
+# Msg requestMsg(String,HttpMethod,T)
+# String genPath(String,P,String,int)
+# String genPath(String,P)
+# String genPath(String,String,int)
++ List<T> get(int)
++ {abstract}List<T> get(String,int)
++ {abstract}Msg post(T)
++ {abstract}Msg put(T,P)
++ {abstract}Msg delete(P)
+}
+class moe.qie2035.market.server.api.UserAPI {
+- {static} User.Type TYPE
+- {static} String NAME
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.ui.dialog.ChooseDialog {
++ {static} String USER
++ {static} String GOODS
+- {static} ChooseDialog dialog
+- JList<String> list
+- JButton okBtn
+- User user
+- <<Create>> ChooseDialog()
++ {static} void create(User)
+# void init()
+# void bind()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.Config {
+- {static} File FILE
+- {static} Config config
+- Server server
+- Client client
+- Database database
+- <<Create>> Config()
++ {static} Config get()
+- {static} void load()
++ void save()
+}
+class moe.qie2035.market.Config.Server {
+- int port
+- int threads
+- <<Create>> Server()
+}
+class moe.qie2035.market.Config.Client {
+- String host
+- int port
+- <<Create>> Client()
+}
+class moe.qie2035.market.Config.Database {
+- Type type
+- String name
+- String host
+- int port
+- String username
+- String password
+- <<Create>> Database()
++ String decPassword()
++ void encPassword(String)
+}
+enum moe.qie2035.market.Config.Database.Type {
++  H2
++  MYSQL
+- String name
+- String drvName
+~ <<Create>> Type(String,String)
++ String getDrvName()
+}
+abstract class moe.qie2035.market.ui.model.AbsModel {
++ int getRowCount()
++ String getColumnName(int)
++ int getColumnCount()
++ {abstract}String[] getHeader()
++ {abstract}void setData(List<T>)
++ {abstract}T getOne(int)
+}
+class moe.qie2035.market.ui.OptMenu {
++ {static} String START
++ {static} String ABOUT
+- {static} OptMenu optMenu
+- {static} JMenuBar menuBar
+- JMenuItem srvItem
+- <<Create>> OptMenu()
++ {static} JMenuBar getMenuBar()
+- void init()
+- void bind()
+- void onSrv()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.frame.TableFrame {
+- ITableEvent tableEvent
+- JButton preBtn
+- JTextField searchField
+- JTable table
++ <<Create>> TableFrame(String,AbsModel<?>,ITableEvent)
+# void init()
+# void bind()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.ui.dialog.CfgDialog {
+- {static} CfgDialog dialog
+- JButton saveBtn
+- JTabbedPane tabPanel
+- JTextField dbNameField
+- JComboBox<Config.Database.Type> dbTypeComboBox
+- JSpinner dbPortSpinner
+- JPasswordField dbPasswordField
+- <<Create>> CfgDialog()
++ {static} void create()
+- {static} int check(Object)
+- {static} JSpinner.NumberEditor getEditor(JSpinner)
+# void init()
+- void initDb()
+- void initSrv()
+- void initClient()
+# void bind()
+- void onSave()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.server.api.GoodsAPI {
+- {static} User.Type TYPE
+- {static} String ID
++ Response get(UriResource,Map<String,String>,IHTTPSession)
++ Response delete(UriResource,Map<String,String>,IHTTPSession)
++ Response put(UriResource,Map<String,String>,IHTTPSession)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.utils.SQL {
+- {static} SuidRich suid
+- <<Create>> SQL()
++ {static} SuidRich get()
++ {static} void refresh()
+- {static} void initH2()
+- {static} String genUrl(Config.Database)
++ {static} ConditionImpl getCondition(NanoHTTPD.IHTTPSession)
+}
+abstract class moe.qie2035.market.ui.frame.AbsFrame {
++ <<Create>> AbsFrame()
+# {abstract}void init()
+# {abstract}void bind()
+}
+class moe.qie2035.market.utils.Crypto {
++ {static} String KEY
+- {static} String TRANSFORMATION
+- <<Create>> Crypto()
++ {static} String enc(String,String)
++ {static} String enc(String)
++ {static} String dec(String,String)
++ {static} String dec(String)
+}
+class moe.qie2035.market.data.User {
+- String name
+- String password
+- String userType
++ User findOne(String)
++ void delOne(String)
++ Type getUserType()
++ void setUserType(Type)
+}
+enum moe.qie2035.market.data.User.Type {
++  GUEST
++  NORMAL
++  ADMIN
+- String name
+~ <<Create>> Type(String)
++ {static} Type from(String)
+}
+class moe.qie2035.market.server.BoundRunner {
+- ExecutorService executorService
+- List<NanoHTTPD.ClientHandler> running
++ <<Create>> BoundRunner(int)
++ void closeAll()
++ void closed(NanoHTTPD.ClientHandler)
++ void exec(NanoHTTPD.ClientHandler)
+}
+class moe.qie2035.market.utils.MsgBox {
+- <<Create>> MsgBox()
++ {static} void success(String)
++ {static} void success()
++ {static} void failed(String)
++ {static} void failed()
++ {static} void failed(Exception)
+}
+enum moe.qie2035.market.server.CNStatus {
++  OK
++  CREATED
++  BAD_REQUEST
++  UNAUTHORIZED
++  FORBIDDEN
++  NOT_FOUND
++  METHOD_NOT_ALLOWED
++  INTERNAL_ERROR
+- int code
+- String msg
+~ <<Create>> CNStatus(int,String)
++ String getDescription()
++ int getRequestStatus()
+}
+interface moe.qie2035.market.data.IDataOne {
+~ T findOne(I)
+~ void delOne(I)
+}
+class moe.qie2035.market.Const {
++ {static} String SUCCESS
++ {static} String FAILED
++ {static} int GAP
++ {static} int GAP2
++ {static} int COL
++ {static} String LOGIN
++ {static} String USER
++ {static} String GOODS
++ {static} String SEARCH
++ {static} String PAGE
++ {static} String AUTH
++ {static} int PAGE_SIZE
++ {static} String MIME
++ {static} String OK
++ {static} String CANCEL
+- <<Create>> Const()
+}
+class moe.qie2035.market.ui.model.GoodsModel {
+- {static} String[] header
+- List<Goods> goodsList
++ <<Create>> GoodsModel(List<Goods>)
++ Object getValueAt(int,int)
++ String[] getHeader()
++ void setData(List<Goods>)
++ Goods getOne(int)
+}
+class moe.qie2035.market.data.Msg {
+~ String msg
+}
+abstract class moe.qie2035.market.ui.event.AbsTableEvent {
+# int page
+~ C client
+~ M model
+- String search
++ <<Create>> AbsTableEvent(C,M)
++ void preClick()
++ void searchClick(String)
+# void update()
+# T check(int)
++ void nextClick()
+}
+class moe.qie2035.market.ui.model.UserModel {
+- {static} String[] header
+- List<User> userList
++ <<Create>> UserModel(List<User>)
++ Object getValueAt(int,int)
++ String[] getHeader()
++ void setData(List<User>)
++ User getOne(int)
+}
+class moe.qie2035.market.data.Goods {
+- Integer id
+- String name
+- Double prince
+- Integer count
+- String remark
++ Goods findOne(Integer)
++ void delOne(Integer)
+}
+class moe.qie2035.market.ui.frame.LoginFrame {
+- {static} LoginFrame frame
+- JTextField usernameField
+- JPasswordField passwordField
+- JButton loginBtn
+- Box labelBox
+- <<Create>> LoginFrame()
++ {static} void create()
+# void init()
+- void initComs()
+- void initLayout()
+# void bind()
+- void onLogin()
++ void actionPerformed(ActionEvent)
+}
+class moe.qie2035.market.Main {
++ {static} void main(String[])
+}
+class moe.qie2035.market.server.api.LoginAPI {
++ {static} boolean check(String,User.Type)
++ {static} boolean check(IHTTPSession,User.Type)
++ Response post(UriResource,Map<String,String>,IHTTPSession)
+}
+class moe.qie2035.market.client.UserClient {
++ <<Create>> UserClient(User)
++ List<User> get(String,int)
++ Msg post(User)
++ Msg put(User,String)
++ Msg delete(String)
+}
+
+
+moe.qie2035.market.ui.event.AbsTableEvent <|-- moe.qie2035.market.ui.event.UserEvent
+moe.qie2035.market.ui.event.AbsTableEvent <|-- moe.qie2035.market.ui.event.GoodsEvent
+moe.qie2035.market.client.AbsClient <|-- moe.qie2035.market.client.GoodsClient
+moe.qie2035.market.client.AbsClient <|-- moe.qie2035.market.client.LoginClient
+moe.qie2035.market.ui.dialog.AbsDialog <|-- moe.qie2035.market.ui.dialog.GoodsDialog
+moe.qie2035.market.ui.dialog.AbsDialog <|-- moe.qie2035.market.ui.dialog.UserDialog
+moe.qie2035.market.server.api.JsonAPI <|-- moe.qie2035.market.server.api.UserAPI
+moe.qie2035.market.ui.dialog.AbsDialog <|-- moe.qie2035.market.ui.dialog.ChooseDialog
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Server
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Client
+moe.qie2035.market.Config +.. moe.qie2035.market.Config.Database
+moe.qie2035.market.ui.frame.AbsFrame <|-- moe.qie2035.market.ui.frame.TableFrame
+moe.qie2035.market.ui.dialog.AbsDialog <|-- moe.qie2035.market.ui.dialog.CfgDialog
+moe.qie2035.market.server.api.JsonAPI <|-- moe.qie2035.market.server.api.GoodsAPI
+moe.qie2035.market.data.IDataOne <|.. moe.qie2035.market.data.User
+moe.qie2035.market.ui.model.AbsModel <|-- moe.qie2035.market.ui.model.GoodsModel
+moe.qie2035.market.ui.event.ITableEvent <|.. moe.qie2035.market.ui.event.AbsTableEvent
+moe.qie2035.market.ui.model.AbsModel <|-- moe.qie2035.market.ui.model.UserModel
+moe.qie2035.market.data.IDataOne <|.. moe.qie2035.market.data.Goods
+moe.qie2035.market.ui.frame.AbsFrame <|-- moe.qie2035.market.ui.frame.LoginFrame
+moe.qie2035.market.server.api.JsonAPI <|-- moe.qie2035.market.server.api.LoginAPI
+moe.qie2035.market.client.AbsClient <|-- moe.qie2035.market.client.UserClient
+moe.qie2035.market.Config.Database.Type ..+ moe.qie2035.market.Config.Database
+moe.qie2035.market.data.User.Type ..+ moe.qie2035.market.data.User
+@enduml
