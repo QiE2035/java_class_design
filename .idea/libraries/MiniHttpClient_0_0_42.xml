@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MiniHttpClient-0.0.42">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MiniHttpClient-0.0.42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

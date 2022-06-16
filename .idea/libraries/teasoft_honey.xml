@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="teasoft.honey" type="repository">
+    <properties maven-id="org.teasoft:honey:1.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/honey-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bee-1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
