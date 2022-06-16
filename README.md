@@ -125,10 +125,10 @@
 
 ## 运行截图
 
-![](run.jpg "运行截图")
+![](doc/run.jpg "运行截图")
 
 ## UML 图
 
-关系线有缺失
+关系线有缺失, 如果显示异常请查看 [doc/uml.svg](doc/uml.svg) 或 [doc/uml.jpg](doc/uml.jpg)
 
-![](uml.svg "UML 图")
+![](doc/uml.svg "UML 图")
