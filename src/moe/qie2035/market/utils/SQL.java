@@ -34,7 +34,8 @@ public class SQL {
         config.setDbName(database.getType().getName());
         config.setDriverName(database.getType().getDrvName());
         config.setUrl(genUrl(database));
-        if (database.getType() == Config.Database.Type.MYSQL) {
+        if (database.getType() == Config.Database.Type.MYSQL
+                || database.getType() == Config.Database.Type.MSSQL) {
             config.setUsername(database.getUsername());
             config.setPassword(database.decPassword());
         }
@@ -61,7 +62,8 @@ public class SQL {
     private static String genUrl(Config.Database database) {
         StringBuilder builder = new StringBuilder("jdbc:");
         final Config.Database.Type dbType = database.getType();
-        builder.append(dbType.getName().toLowerCase());
+        builder.append(dbType.getName().toLowerCase()
+                .replaceAll(" ", ""));
         builder.append(':');
         switch (dbType) {
             case H2 -> {
@@ -77,6 +79,15 @@ public class SQL {
                 builder.append('/');
                 builder.append(database.getName());
             }
+            case MSSQL -> {
+                builder.append("//");
+                builder.append(database.getHost());
+                builder.append(':');
+                builder.append(database.getPort());
+                builder.append(";database=");
+                builder.append(database.getName());
+                builder.append(";trustServerCertificate=true");
+            }
         }
         return builder.toString();
     }
@@ -84,9 +95,9 @@ public class SQL {
     public static ConditionImpl getCondition(NanoHTTPD.IHTTPSession session) {
         final ConditionImpl condition = new ConditionImpl();
         String search = session.getParms().get(Const.SEARCH);
-        if (search != null) {
-            condition.op("name", Op.like, "%" + search + "%");
-        }
+//        if (search != null) {
+//            condition.op("name", Op.like, "%" + search + "%");
+//        }
         final String page = session.getParms().get(Const.PAGE);
         if (page != null) {
             final int pageNum = Integer.parseInt(page);

@@ -32,7 +32,8 @@ public class LoginAPI extends JsonAPI {
 
     public static boolean check(
             IHTTPSession session, User.Type type) {
-        return check(Crypto.dec(session.getHeaders().get(Const.AUTH)), type);
+        return check(Crypto.dec(session.getHeaders()
+                .get(Const.AUTH)), type);
     }
 
     @Override

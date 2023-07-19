@@ -2,13 +2,11 @@ package moe.qie2035.market.server;
 
 import fi.iki.elonen.router.RouterNanoHTTPD;
 import moe.qie2035.market.Config;
-import moe.qie2035.market.Const;
-import moe.qie2035.market.server.api.GoodsAPI;
-import moe.qie2035.market.server.api.JsonAPI;
-import moe.qie2035.market.server.api.LoginAPI;
-import moe.qie2035.market.server.api.UserAPI;
+import moe.qie2035.market.Const.API;
+import moe.qie2035.market.server.api.*;
 
 public class Server extends RouterNanoHTTPD {
+    public static final String ID = "/:id";
     private static Server server;
 
     private Server() {
@@ -36,21 +34,33 @@ public class Server extends RouterNanoHTTPD {
         super.addMappings();
         removeRoute("/");
         removeRoute("/index.html");
-        addRoute(Const.LOGIN, LoginAPI.class);
-        addRoute(Const.USER, UserAPI.class);
-        addRoute(Const.USER + "/:name", UserAPI.class);
-        addRoute(Const.GOODS, GoodsAPI.class);
-        addRoute(Const.GOODS + "/:id", GoodsAPI.class);
+
+        addRoute(API.LOGIN.getPath(), LoginAPI.class);
+
+        addRoute(API.USER.getPath(), UserAPI.class);
+        addRoute(API.USER.getPath() + "/:name", UserAPI.class);
+
+//        addRoute(API.GOODS.getPath(), GoodsAPI.class);
+//        addRoute(API.GOODS.getPath() + ID, GoodsAPI.class);
+
+        addRoute(API.EMPLOYER.getPath(), EmployerAPI.class);
+        addRoute(API.EMPLOYER.getPath() + ID, EmployerAPI.class);
+
+        addRoute(API.MAJORS.getPath(), MajorsAPI.class);
+        addRoute(API.MAJORS.getPath() + ID, MajorsAPI.class);
+
+        addRoute(API.SUBJECTS.getPath(), SubjectsAPI.class);
+        addRoute(API.SUBJECTS.getPath() + ID, SubjectsAPI.class);
     }
 
     @Override
     public Response serve(IHTTPSession session) {
         try {
             final String uri = session.getUri();
-            if (!uri.contains("/api/")) {
+            if (!uri.contains(API.API)) {
                 return super.serve(session);
             }
-            if (uri.equals(Const.LOGIN)
+            if (uri.equals(API.LOGIN.getPath())
                     || LoginAPI.check(session, null)) {
                 return super.serve(session);
             } else {

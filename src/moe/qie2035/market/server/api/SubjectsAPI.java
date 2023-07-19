@@ -5,14 +5,14 @@ import fi.iki.elonen.NanoHTTPD.IHTTPSession;
 import fi.iki.elonen.NanoHTTPD.Response;
 import fi.iki.elonen.router.RouterNanoHTTPD.UriResource;
 import moe.qie2035.market.Const;
-import moe.qie2035.market.data.Goods;
+import moe.qie2035.market.data.Subjects;
 import moe.qie2035.market.data.User;
 import moe.qie2035.market.server.CNStatus;
 import moe.qie2035.market.utils.SQL;
 
 import java.util.Map;
 
-public class GoodsAPI extends JsonAPI {
+public class SubjectsAPI extends JsonAPI {
     private static final User.Type TYPE = User.Type.NORMAL;
 
     @Override
@@ -20,18 +20,18 @@ public class GoodsAPI extends JsonAPI {
                         Map<String, String> urlParams,
                         IHTTPSession session) {
         try {
-            final String id = urlParams.get(Const.ID);
+            String id = urlParams.get(Const.ID);
             if (id == null) {
                 return response(CNStatus.OK,
-                        SQL.get().select(new Goods(),
+                        SQL.get().select(new Subjects(),
                                 SQL.getCondition(session)));
 
             }
-            final Goods goods = new Goods().findOne(Integer.parseInt(id));
-            if (goods == null) {
+            Subjects subjects = new Subjects().findOne(Integer.parseInt(id));
+            if (subjects == null) {
                 return response(CNStatus.NOT_FOUND);
             }
-            return response(CNStatus.OK, goods);
+            return response(CNStatus.OK, subjects);
         } catch (Exception e) {
             e.printStackTrace();
             return response(CNStatus.INTERNAL_ERROR);
@@ -50,7 +50,7 @@ public class GoodsAPI extends JsonAPI {
             if (id == null) {
                 return response(CNStatus.BAD_REQUEST);
             }
-            new Goods().delOne(Integer.parseInt(id));
+            new Subjects().delOne(Integer.parseInt(id));
             return response(CNStatus.OK);
         } catch (Exception e) {
             e.printStackTrace();
@@ -71,12 +71,13 @@ public class GoodsAPI extends JsonAPI {
             if (body == null || id == null) {
                 return response(CNStatus.BAD_REQUEST);
             }
-            Goods oldGoods = new Goods().findOne(Integer.parseInt(id));
-            if (oldGoods == null) {
+            Subjects oldSubjects = new Subjects().findOne(Integer.parseInt(id));
+            if (oldSubjects == null) {
                 return response(CNStatus.NOT_FOUND);
             }
-            Goods newGoods = JSON.parseObject(body, Goods.class);
-            SQL.get().update(oldGoods, newGoods);
+            Subjects newSubjects = JSON.parseObject(body, Subjects.class);
+            newSubjects.setSubjectId(null);
+            SQL.get().update(oldSubjects, newSubjects);
             return response(CNStatus.OK);
         } catch (Exception e) {
             e.printStackTrace();
@@ -92,18 +93,13 @@ public class GoodsAPI extends JsonAPI {
             if (!LoginAPI.check(session, TYPE)) {
                 return response(CNStatus.FORBIDDEN);
             }
-            String body = getPostBody(session);
-            String id = urlParams.get(Const.ID);
-            if (body == null || id == null) {
+            final String body = getPostBody(session);
+            if (body == null) {
                 return response(CNStatus.BAD_REQUEST);
             }
-            Goods oldGoods = new Goods().findOne(Integer.parseInt(id));
-            if (oldGoods == null) {
-                Goods newGoods = JSON.parseObject(body, Goods.class);
-                SQL.get().insert(newGoods);
-                return response(CNStatus.CREATED);
-            }
-            return response(CNStatus.FORBIDDEN, "ID冲突");
+            Subjects newSubjects = JSON.parseObject(body, Subjects.class);
+            SQL.get().insert(newSubjects);
+            return response(CNStatus.CREATED);
         } catch (Exception e) {
             e.printStackTrace();
             return response(CNStatus.INTERNAL_ERROR);

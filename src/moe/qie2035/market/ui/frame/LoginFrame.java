@@ -9,6 +9,7 @@ import moe.qie2035.market.utils.Crypto;
 import moe.qie2035.market.utils.MsgBox;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 
 public class LoginFrame extends AbsFrame {
@@ -20,6 +21,7 @@ public class LoginFrame extends AbsFrame {
     private Box labelBox, fieldBox, btnBox;
 
     private LoginFrame() {
+        super(new Dimension(211,119));
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 

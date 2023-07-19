@@ -6,20 +6,19 @@ import org.teasoft.bee.osql.annotation.PrimaryKey;
 import org.teasoft.bee.osql.annotation.Table;
 
 @Data
-@Table("goods")
-public class Goods implements IDataOne<Goods, Integer> {
+@Table("employer")
+public class Employer implements IDataOne<Employer, Integer> {
     @PrimaryKey
-    private Integer id;
-    private String name;
-    private Double prince;
-    private Integer count;
-    private String remark;
+    private Integer employerId;
+    private String employerName;
+    private String employerAddress;
+    private String employerContact;
 
     @Override
-    public Goods findOne(Integer id) {
+    public Employer findOne(Integer id) {
         try {
-            setId(id);
-            return SQL.get().selectOne(this);
+            setEmployerId(id);
+            return SQL.get().selectOne(this);//.get(0);
         } catch (IndexOutOfBoundsException e) {
             e.printStackTrace();
             return null;
@@ -28,7 +27,8 @@ public class Goods implements IDataOne<Goods, Integer> {
 
     @Override
     public void delOne(Integer id) {
-        setId(id);
+        setEmployerId(id);
         SQL.get().delete(this);
     }
+
 }

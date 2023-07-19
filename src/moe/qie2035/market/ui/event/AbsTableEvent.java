@@ -33,13 +33,13 @@ public abstract class AbsTableEvent
     }
 
     protected void update() {
-        model.setData(client.get(search, page));
+        model.setDataList(client.get(search, page));
         model.fireTableDataChanged();
     }
 
     @SneakyThrows
     protected T check(int index) {
-        T data = model.getOne(index);
+        T data = model.getOneRow(index);
         if (data == null) {
             throw new Exception("选择了空行");
         }
@@ -48,10 +48,9 @@ public abstract class AbsTableEvent
 
     @Override
     public void nextClick() {
-        page++;
         update();
-        if (model.getOne(0) == null) {
+        /*if (model.getOneRow(0) == null) {
             preClick();
-        }
+        }*/
     }
 }

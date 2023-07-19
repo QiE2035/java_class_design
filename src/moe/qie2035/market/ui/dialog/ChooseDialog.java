@@ -1,14 +1,12 @@
 package moe.qie2035.market.ui.dialog;
 
 import moe.qie2035.market.Const;
-import moe.qie2035.market.client.GoodsClient;
-import moe.qie2035.market.client.UserClient;
+import moe.qie2035.market.client.*;
 import moe.qie2035.market.data.User;
-import moe.qie2035.market.ui.event.GoodsEvent;
-import moe.qie2035.market.ui.event.UserEvent;
+import moe.qie2035.market.ui.Tables;
+import moe.qie2035.market.ui.event.*;
 import moe.qie2035.market.ui.frame.TableFrame;
-import moe.qie2035.market.ui.model.GoodsModel;
-import moe.qie2035.market.ui.model.UserModel;
+import moe.qie2035.market.ui.model.*;
 import moe.qie2035.market.utils.MsgBox;
 
 import javax.swing.*;
@@ -16,12 +14,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 
 public class ChooseDialog extends AbsDialog<Object, Object> {
-
-    public static final String USER = "用户";
-    public static final String GOODS = "商品";
     private static ChooseDialog dialog;
 
-    private JList<String> list;
+    private JList<Tables> list;
     private JButton okBtn;
 
     private User user;
@@ -60,9 +55,12 @@ public class ChooseDialog extends AbsDialog<Object, Object> {
     protected void bind() {
         okBtn.addActionListener(this);
 
-        final DefaultListModel<String> listModel = new DefaultListModel<>();
-        listModel.addElement(USER);
-        listModel.addElement(GOODS);
+        final DefaultListModel<Tables> listModel = new DefaultListModel<>();
+
+        for (Tables table : Tables.values()) {
+            listModel.addElement(table);
+        }
+
         list.setModel(listModel);
         list.setSelectedIndex(0);
     }
@@ -71,24 +69,38 @@ public class ChooseDialog extends AbsDialog<Object, Object> {
     public void actionPerformed(ActionEvent event) {
         if (event.getSource() == okBtn) {
             try {
-                switch (list.getSelectedValue()) {
+                final Tables selected = list.getSelectedValue();
+                final String title = selected.toString();
+                switch (selected) {
                     case USER -> {
-                        UserClient client = new UserClient(user);
-                        UserModel model = new UserModel(client.get(0));
-                        new TableFrame(USER, model, new UserEvent(client, model));
+                        final UserClient client = new UserClient(user);
+                        final UserModel model = new UserModel(client.get(0));
+                        new TableFrame(title, model, new UserEvent(client, model));
                     }
+                    case EMPLOYER -> {
+                        final EmployerClient client = new EmployerClient(user);
+                        final EmployerModel model = new EmployerModel(client.get(0));
+                        new TableFrame(title, model, new EmployerEvent(client, model));
+                    }
+                    case MAJORS -> {
+                        final MajorsClient client = new MajorsClient(user);
+                        final MajorsModel model = new MajorsModel(client.get(0));
+                        new TableFrame(title, model, new MajorsEvent(client, model));
 
-                    case GOODS -> {
-                        GoodsClient client = new GoodsClient(user);
-                        GoodsModel model = new GoodsModel(client.get(0));
-                        new TableFrame(GOODS, model, new GoodsEvent(client, model));
+                    } case SUBJECTS -> {
+                        final SubjectsClient client = new SubjectsClient(user);
+                        final SubjectsModel model = new SubjectsModel(client.get(0));
+                        new TableFrame(title, model, new SubjectsEvent(client, model));
                     }
+                    default -> throw new Exception("施工中...");
+
                 }
+                dispose();
             } catch (Exception e) {
                 e.printStackTrace();
                 MsgBox.failed(e);
             }
-            dispose();
         }
     }
+
 }

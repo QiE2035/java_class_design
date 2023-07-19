@@ -19,7 +19,7 @@ public class User implements IDataOne<User, String> {
     public User findOne(String name) {
         try {
             setName(name);
-            return SQL.get().select(this).get(0);
+            return SQL.get().selectOne(this);
         } catch (IndexOutOfBoundsException e) {
             e.printStackTrace();
             return null;
@@ -58,8 +58,7 @@ public class User implements IDataOne<User, String> {
 
         @SneakyThrows
         public static Type from(String name) {
-            for (Type type :
-                    Type.values()) {
+            for (Type type : Type.values()) {
                 if (type.getName().equals(name)) {
                     return type;
                 }

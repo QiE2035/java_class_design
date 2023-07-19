@@ -17,27 +17,27 @@ public class UserClient extends AbsClient<User, String> {
     @Override
     public List<User> get(String search, int page) {
         return JSON.parseArray(request(
-                genPath(Const.USER, search, page),
+                genPath(Const.API.USER.getPath(), search, page),
                 HttpMethod.GET, null), User.class);
     }
 
     @Override
     public Msg post(User user) {
         return requestMsg(
-                genPath(Const.USER, user.getName()),
+                genPath(Const.API.USER.getPath(), user.getName()),
                 HttpMethod.POST, user);
 
     }
 
     @Override
     public Msg put(User user, String name) {
-        return requestMsg(genPath(Const.USER, name),
+        return requestMsg(genPath(Const.API.USER.getPath(), name),
                 HttpMethod.PUT, user);
     }
 
     @Override
     public Msg delete(String name) {
-        return requestMsg(genPath(Const.USER, name),
+        return requestMsg(genPath(Const.API.USER.getPath(), name),
                 HttpMethod.DELETE, null);
     }
 }

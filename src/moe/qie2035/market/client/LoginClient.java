@@ -21,7 +21,7 @@ public class LoginClient extends AbsClient<User, String> {
 
     @Override
     public Msg post(User user) {
-        return requestMsg(Const.LOGIN,
+        return requestMsg(Const.API.LOGIN.getPath(),
                 HttpMethod.POST, user);
     }
 

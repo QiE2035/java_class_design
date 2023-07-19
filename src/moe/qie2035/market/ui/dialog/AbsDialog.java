@@ -93,7 +93,6 @@ public abstract class AbsDialog<T, P>
 
         cancelBtn = new JButton(Const.CANCEL);
         btnBox.add(cancelBtn);
-
     }
 
 }

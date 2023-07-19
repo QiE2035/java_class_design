@@ -3,6 +3,7 @@ package moe.qie2035.market;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONReader;
 import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.microsoft.sqlserver.jdbc.SQLServerDriver;
 import lombok.Data;
 import lombok.Getter;
 import moe.qie2035.market.utils.Crypto;
@@ -75,11 +76,11 @@ public class Config {
 
     @Data
     public static class Database {
-        private Type type = Type.H2;
-        private String name = "demo";
+        private Type type = Type.MSSQL;
+        private String name = "Graduate";
         private String host = "localhost";
-        private int port = 3306;
-        private String username = "root";
+        private int port = 1433;
+        private String username = "sa";
         private String password = "";
 
         private Database() {
@@ -95,7 +96,8 @@ public class Config {
 
         public enum Type {
             H2("H2", "org.h2.Driver"),
-            MYSQL("MySQL", "com.mysql.cj.jdbc.Driver");
+            MYSQL("MySQL", "com.mysql.cj.jdbc.Driver"),
+            MSSQL("SQL Server", "com.microsoft.sqlserver.jdbc.SQLServerDriver");
 
             @Getter
             private final String name;

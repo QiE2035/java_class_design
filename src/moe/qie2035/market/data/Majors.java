@@ -1,24 +1,23 @@
 package moe.qie2035.market.data;
 
 import lombok.Data;
+import lombok.RequiredArgsConstructor;
 import moe.qie2035.market.utils.SQL;
 import org.teasoft.bee.osql.annotation.PrimaryKey;
 import org.teasoft.bee.osql.annotation.Table;
 
 @Data
-@Table("goods")
-public class Goods implements IDataOne<Goods, Integer> {
+@Table("majors")
+public class Majors implements IDataOne<Majors, Integer> {
     @PrimaryKey
-    private Integer id;
-    private String name;
-    private Double prince;
-    private Integer count;
-    private String remark;
+    private Integer majorId;
+    private String majorName;
+    private String degreeType;
 
     @Override
-    public Goods findOne(Integer id) {
+    public Majors findOne(Integer id) {
         try {
-            setId(id);
+            setMajorId(id);
             return SQL.get().selectOne(this);
         } catch (IndexOutOfBoundsException e) {
             e.printStackTrace();
@@ -28,7 +27,8 @@ public class Goods implements IDataOne<Goods, Integer> {
 
     @Override
     public void delOne(Integer id) {
-        setId(id);
+        setMajorId(id);
         SQL.get().delete(this);
     }
+
 }

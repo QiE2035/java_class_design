@@ -16,5 +16,6 @@
     <orderEntry type="library" name="teasoft.honey" level="project" />
     <orderEntry type="library" name="h2database.h2" level="project" />
     <orderEntry type="library" name="formdev.flatlaf" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-12.2.0.jre8" level="project" />
   </component>
 </module>
