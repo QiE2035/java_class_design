@@ -11,7 +11,7 @@ public enum Tables {
 
     private final String title;
 
-    private Tables(final String title) {
+    Tables(final String title) {
         this.title = title;
     }
 

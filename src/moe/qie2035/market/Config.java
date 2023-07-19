@@ -3,7 +3,6 @@ package moe.qie2035.market;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONReader;
 import com.alibaba.fastjson.serializer.SerializerFeature;
-import com.microsoft.sqlserver.jdbc.SQLServerDriver;
 import lombok.Data;
 import lombok.Getter;
 import moe.qie2035.market.utils.Crypto;

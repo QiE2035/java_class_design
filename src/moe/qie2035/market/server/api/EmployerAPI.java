@@ -8,8 +8,6 @@ import moe.qie2035.market.data.Employer;
 import moe.qie2035.market.data.User;
 import moe.qie2035.market.server.CNStatus;
 import moe.qie2035.market.utils.SQL;
-import org.teasoft.bee.osql.PreparedSql;
-import org.teasoft.honey.osql.core.PreparedSqlLib;
 
 import java.util.Map;
 

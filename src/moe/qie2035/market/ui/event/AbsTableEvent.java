@@ -9,8 +9,8 @@ public abstract class AbsTableEvent
                 M extends AbsModel<T>>
         implements ITableEvent {
     protected int page = 1;
-    C client;
-    M model;
+    final C client;
+    final M model;
     private String search;
 
     public AbsTableEvent(C client, M model) {

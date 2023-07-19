@@ -19,7 +19,7 @@ public class Const {
     }
 
     public enum API {
-        USER, EMPLOYER, LOGIN, GOODS, MAJORS,SUBJECTS;
+        USER, EMPLOYER, LOGIN, GOODS, MAJORS, SUBJECTS;
         public static final String API = "/api/";
 
 

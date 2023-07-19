@@ -7,7 +7,6 @@ import moe.qie2035.market.data.Employer;
 import moe.qie2035.market.data.Msg;
 import moe.qie2035.market.data.User;
 
-
 import java.util.List;
 
 public class EmployerClient extends AbsClient<Employer, Integer> {

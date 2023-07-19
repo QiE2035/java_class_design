@@ -23,11 +23,11 @@ public class Server extends RouterNanoHTTPD {
         return server;
     }
 
-    public static Server refresh() {
+    /*public static Server refresh() {
         get().stop();
         server = null;
         return get();
-    }
+    }*/
 
     @Override
     public void addMappings() {

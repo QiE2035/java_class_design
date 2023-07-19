@@ -4,7 +4,6 @@ import fi.iki.elonen.NanoHTTPD;
 import lombok.SneakyThrows;
 import moe.qie2035.market.Config;
 import moe.qie2035.market.Const;
-import org.teasoft.bee.osql.Op;
 import org.teasoft.bee.osql.SuidRich;
 import org.teasoft.honey.osql.core.BeeFactoryHelper;
 import org.teasoft.honey.osql.core.ConditionImpl;
@@ -94,7 +93,7 @@ public class SQL {
 
     public static ConditionImpl getCondition(NanoHTTPD.IHTTPSession session) {
         final ConditionImpl condition = new ConditionImpl();
-        String search = session.getParms().get(Const.SEARCH);
+//        String search = session.getParms().get(Const.SEARCH);
 //        if (search != null) {
 //            condition.op("name", Op.like, "%" + search + "%");
 //        }

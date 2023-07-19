@@ -1,7 +1,6 @@
 package moe.qie2035.market.data;
 
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 import moe.qie2035.market.utils.SQL;
 import org.teasoft.bee.osql.annotation.PrimaryKey;
 import org.teasoft.bee.osql.annotation.Table;

@@ -9,6 +9,7 @@ public class SubjectsEvent extends AbsTableEvent<Subjects, SubjectsClient, Subje
     public SubjectsEvent(SubjectsClient client, SubjectsModel model) {
         super(client, model);
     }
+
     @Override
     public void newClick() {
         new SubjectsDialog(new Subjects(),

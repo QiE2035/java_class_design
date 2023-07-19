@@ -1,12 +1,21 @@
 package moe.qie2035.market.ui.dialog;
 
 import moe.qie2035.market.Const;
-import moe.qie2035.market.client.*;
+import moe.qie2035.market.client.EmployerClient;
+import moe.qie2035.market.client.MajorsClient;
+import moe.qie2035.market.client.SubjectsClient;
+import moe.qie2035.market.client.UserClient;
 import moe.qie2035.market.data.User;
 import moe.qie2035.market.ui.Tables;
-import moe.qie2035.market.ui.event.*;
+import moe.qie2035.market.ui.event.EmployerEvent;
+import moe.qie2035.market.ui.event.MajorsEvent;
+import moe.qie2035.market.ui.event.SubjectsEvent;
+import moe.qie2035.market.ui.event.UserEvent;
 import moe.qie2035.market.ui.frame.TableFrame;
-import moe.qie2035.market.ui.model.*;
+import moe.qie2035.market.ui.model.EmployerModel;
+import moe.qie2035.market.ui.model.MajorsModel;
+import moe.qie2035.market.ui.model.SubjectsModel;
+import moe.qie2035.market.ui.model.UserModel;
 import moe.qie2035.market.utils.MsgBox;
 
 import javax.swing.*;
@@ -87,7 +96,8 @@ public class ChooseDialog extends AbsDialog<Object, Object> {
                         final MajorsModel model = new MajorsModel(client.get(0));
                         new TableFrame(title, model, new MajorsEvent(client, model));
 
-                    } case SUBJECTS -> {
+                    }
+                    case SUBJECTS -> {
                         final SubjectsClient client = new SubjectsClient(user);
                         final SubjectsModel model = new SubjectsModel(client.get(0));
                         new TableFrame(title, model, new SubjectsEvent(client, model));

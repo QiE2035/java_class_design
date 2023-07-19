@@ -1,7 +1,6 @@
 package moe.qie2035.market.ui.model;
 
 import moe.qie2035.market.data.Majors;
-import moe.qie2035.market.data.Subjects;
 
 import java.util.List;
 

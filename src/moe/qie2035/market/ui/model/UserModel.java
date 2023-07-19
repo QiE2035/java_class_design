@@ -1,6 +1,5 @@
 package moe.qie2035.market.ui.model;
 
-import moe.qie2035.market.data.Majors;
 import moe.qie2035.market.data.User;
 
 import java.util.List;

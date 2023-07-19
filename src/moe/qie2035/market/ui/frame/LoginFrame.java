@@ -21,7 +21,7 @@ public class LoginFrame extends AbsFrame {
     private Box labelBox, fieldBox, btnBox;
 
     private LoginFrame() {
-        super(new Dimension(211,119));
+        super(new Dimension(211, 119));
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 

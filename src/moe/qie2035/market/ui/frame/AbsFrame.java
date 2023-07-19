@@ -20,7 +20,7 @@ public abstract class AbsFrame
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
     }
 
-    public AbsFrame(){
+    public AbsFrame() {
         this(null);
     }
 
