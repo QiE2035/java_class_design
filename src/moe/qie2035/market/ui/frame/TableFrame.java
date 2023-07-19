@@ -31,7 +31,7 @@ public class TableFrame extends AbsFrame {
         searchField = new JTextField(20);
         searchPanel.add(searchField);
 
-        searchButton = new JButton("搜索/刷新");
+        searchButton = new JButton("刷新");
         searchPanel.add(searchButton);
 
         table = new JTable();
@@ -62,6 +62,8 @@ public class TableFrame extends AbsFrame {
 
     @Override
     protected void bind() {
+        searchField.setEnabled(false);
+
         preBtn.addActionListener(this);
         nextBtn.addActionListener(this);
         newBtn.addActionListener(this);
