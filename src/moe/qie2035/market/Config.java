@@ -94,8 +94,8 @@ public class Config {
         }
 
         public enum Type {
-            H2("H2", "org.h2.Driver"),
-            MYSQL("MySQL", "com.mysql.cj.jdbc.Driver"),
+//            H2("H2", "org.h2.Driver"),
+//            MYSQL("MySQL", "com.mysql.cj.jdbc.Driver"),
             MSSQL("SQL Server", "com.microsoft.sqlserver.jdbc.SQLServerDriver");
 
             @Getter

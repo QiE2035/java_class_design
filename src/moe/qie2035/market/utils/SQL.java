@@ -33,8 +33,8 @@ public class SQL {
         config.setDbName(database.getType().getName());
         config.setDriverName(database.getType().getDrvName());
         config.setUrl(genUrl(database));
-        if (database.getType() == Config.Database.Type.MYSQL
-                || database.getType() == Config.Database.Type.MSSQL) {
+        if (// database.getType() == Config.Database.Type.MYSQL ||
+                database.getType() == Config.Database.Type.MSSQL) {
             config.setUsername(database.getUsername());
             config.setPassword(database.decPassword());
         }
@@ -65,7 +65,7 @@ public class SQL {
                 .replaceAll(" ", ""));
         builder.append(':');
         switch (dbType) {
-            case H2 -> {
+            /*case H2 -> {
                 initH2();
                 builder.append("./");
                 builder.append(database.getName());
@@ -77,7 +77,7 @@ public class SQL {
                 builder.append(database.getPort());
                 builder.append('/');
                 builder.append(database.getName());
-            }
+            }*/
             case MSSQL -> {
                 builder.append("//");
                 builder.append(database.getHost());
